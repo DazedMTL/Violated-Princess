@@ -4048,7 +4048,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >!Goblin cave...!\nIt's like that again...! ? )"
+                                "\\n< Serena >(The goblin cave...!\nIt's like that again...!?)"
                             ]
                         },
                         {
@@ -14137,14 +14137,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………戻ろう。戻って、綺麗にしないと……。"
+                                "...Let's go back. I need to go back and clean up..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>"
+                                "\\n< Serena >"
                             ]
                         },
                         {
