@@ -1511,7 +1511,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A slime larva came out of Serena. He can't communicate,\nand it is not even clear it's sleeping or not.",
+        "description": "A slime larva came out of Serena. He can't communicate,\nand it is not even clear ifit's sleeping or not.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 13,
@@ -2005,7 +2005,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A child born between Serena and the owner of the cheap\ninn, Vincent. The child has no memory and feels afraid.",
+        "description": "A child born between Serena and the owner of the cheap\ninn, Vincent. Serana has no memory of it and is terrified.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2031,7 +2031,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The baby that Serena had with Albel. It is quiet while\ndrinking milk.",
+        "description": "The baby that Serena had with Albel.\nIt is quiet while drinking milk.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2057,7 +2057,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "×",
+        "description": "The baby that Serena had with Samuel.\nIt is quiet whiledrinking milk.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2083,7 +2083,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Serena's child born between her and the owner of the\nweapon shop, Denis. I don't feel sense of being a parent.",
+        "description": "Serena's child born between her and the owner of the\nweapon shop, Denis. She does not feel as if she\nis the parent and this child",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2109,7 +2109,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "",
+        "description": "The baby that Serena had with Matthias.\nIt is quiet while drinking milk.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2135,7 +2135,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "×",
+        "description": "The baby that Serena had with Marcel.\nIt is quiet while drinking milk.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2161,7 +2161,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A child born between Serena and the brothel's\nmanager, Deacon. He's uncomfortably friendly.",
+        "description": "A child born between Serena and the brothel's\nmanager, Deacon. He is very familiar with\nSerena and it is very creepy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2187,7 +2187,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The child Serena bore with urban aristocrat Goupil.",
+        "description": "The child Serena created with urban aristocrat Goupil.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2213,7 +2213,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A baby born between Serena and the chief of the city\npolice, Desmoulins. I just can't think it's cute.",
+        "description": "A baby born between Serena and the chief of the city\npolice, Desmoulins.\nI just can't help but think it's cute.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2239,7 +2239,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The child born between Serena and town doctor\nRodríguez. I hope at least it will grow up properly.",
+        "description": "The child born between Serena and town doctor\nRodríguez. She hopes that this baby will a\nleast grow up to be a decent child.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2421,7 +2421,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A child born from Serena and Ganelon. A proof of\nhumiliation, violence, and submission. Cannot love it.",
+        "description": "A child born from Serena and Ganelon. A proof of\nhumiliation, violence, and submission.\nI just can't help it, I can't love it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2655,7 +2655,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A child born between Serena and someone from the city\npolice. Hiding his face, the parent of this child is unknown.",
+        "description": "A child born between Serena and someone from the city\npolice. Because he hid is face, the parent of this child is unknown.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2681,7 +2681,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The child that Serena had with her guildmates. No,\nthey're not true friends. Those who did such a thing.",
+        "description": "The child that Serena had with her guildmates. No,\nthey're not my friends. Those who did such a thing.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2707,7 +2707,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A child Serena had with a thug. She was raped and\nforcibly impregnated. She cannot hold love for it.",
+        "description": "A child Serena had with a thug. She was raped and\nforcibly impregnated.\nThere is no way I could ever love them.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2811,7 +2811,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The child Serena had with a customer at her work.\nHis name is unknown. It feels very miserable.",
+        "description": "The child Serena had with a customer at her work.\nHis name is unknown. I feel very miserable.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2889,7 +2889,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A child born from the union of Serena and Stallion.\nShe had no choice but to give birth to it.",
+        "description": "A child born from the union of Serena and Stallion.\nThat man must be laughing.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2941,7 +2941,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A child born between Serena and my own goblin child.\nA twofold abomination should never be allowed to exist.",
+        "description": "A child born between Serena and her own goblin son.\nA twofold abomination should never be allowed to exist.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 13,
@@ -2967,7 +2967,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The baby that Serena bore with her Orc son. I must\ndispose of it quickly. I must dispose of it...",
+        "description": "The baby that Serena bore from her own child orc. I must\ndispose of it quickly. I must dispose of it...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 13,
@@ -2993,7 +2993,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The baby Serena bore with my child, Warg. My hands\ntremble as I hold it. I want to abandon it right now.",
+        "description": "The baby Serena bore with her own child Warg. My hands\ntremble as I hold it. I want to drop it right now.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 13,
@@ -3019,7 +3019,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A child born between Serena and her swine-man\noffspring. Is there other crime as horrifying as this?",
+        "description": "A child born between Serena and her swine-man\n son. Is there any crime as horrifying as this?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 13,
@@ -3045,7 +3045,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A child created by Serena and my son, the Stallion.\nIts huge penis is standing erect. Pure terror.",
+        "description": "A child created by Serena and her son Stallion.\nIts huge penis is standing erect. Pure terror.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 13,
@@ -3071,7 +3071,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The child that Serena bore with her offspring Roper.\nIt has been almost attacked several times. At this rate...",
+        "description": "The child that Serena bore from her own son Roper.\nIt has been almost attacked several times. At this rate...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 13,
@@ -4290,7 +4290,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A medicine if consumed, will cause a person to\nbecome in a state they will have multiple pregnancies.",
+        "description": "A medicine if consumed, will cause a person to\nbecome in a state able to have multiple pregnancies.",
         "effects": [
             {
                 "code": 44,
@@ -4323,7 +4323,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Drinking it will make you become pregnant with just\none vaginal ejaculation for one day.",
+        "description": "Drinking it will make you become pregnant with just\none vaginal ejaculation for the rest of the day.",
         "effects": [
             {
                 "code": 44,
@@ -4356,7 +4356,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Drinking it will make you contraceptive for one day.",
+        "description": "If you take it,\nyou can't be pregnant for a day.",
         "effects": [
             {
                 "code": 44,
