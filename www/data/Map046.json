@@ -2028,6 +2028,15 @@
                             "code": 121,
                             "indent": 0,
                             "parameters": [
+                                1307,
+                                1307,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
                                 50,
                                 50,
                                 0
@@ -2337,8 +2346,27 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
+                                0,
+                                1300,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
+                            "parameters": [
                                 "回想セーブ Defeated_by_John"
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
                         },
                         {
                             "code": 203,
@@ -2722,7 +2750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >As compensation for causing you unpleasant\nfeelings..."
+                                "\\n< Serial Killer John >For the discomfort you have caused me."
                             ]
                         },
                         {
@@ -2757,7 +2785,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >I won't let you have a delightful\nexperience with your disgusting belly!"
+                                "\\n< Serial Killer John >I'm going to have to have a\ngood time with your disgusting belly!"
                             ]
                         },
                         {
@@ -2798,7 +2826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >I won't let you have a delightful\nexperience with your disgusting body!"
+                                "\\n< Serial Killer John >I'm going to have to have a\ngood time with your disgusting belly!"
                             ]
                         },
                         {
@@ -2947,7 +2975,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Hehe, you've really let your belly swell up.\nIs there a human inside there?"
+                                "\\n< Serial Killer John >Hehe, Hee hee, you've got a big belly.\nIs that a human being in there?"
                             ]
                         },
                         {
@@ -3067,7 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Stop, stop it, you bastard! If you stop\nnow...!"
+                                "\\n< Serena >Stop, stop it, you bastard!\nNot again....!"
                             ]
                         },
                         {
@@ -3098,7 +3126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Is it still 'now'?"
+                                "\\n< Serial Killer John >“Not again” huh?"
                             ]
                         },
                         {
@@ -3122,7 +3150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Well, what if I do more? What will happen\nnext time? Huh?"
+                                "\\n< Serial Killer John >Then what if I do more?\nWhat will happen to you now? Huh?"
                             ]
                         },
                         {
@@ -3403,7 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Yeah, that's right. That's how you get us\nexcited, huh~!"
+                                "\\n< Serial Killer John >Yeah, that's right. That's how you get me\nexcited, huh~!"
                             ]
                         },
                         {
@@ -3723,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >... For now, at least. You said that\nearlier, right?"
+                                "\\n< Serial Killer John >... “Not again”, You said that\nearlier, right?"
                             ]
                         },
                         {
@@ -3754,7 +3782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >So, what do you think will happen from now\non? Hm...?"
+                                "\\n< Serial Killer John >So, how do you know what\nwill happen from nowon? Hm...?"
                             ]
                         },
                         {
@@ -3969,7 +3997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >(That's right... I... I know this situation...\nI know...)"
+                                "\\n< Serena >(Yes... I... know... about...\nthis... situation.)"
                             ]
                         },
                         {
@@ -4020,7 +4048,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >(The Goblin Cave...! Again, in a situation\nlike that...!?)"
+                                "\\n< Serena >!Goblin cave...!\nIt's like that again...! ? )"
                             ]
                         },
                         {
@@ -4061,7 +4089,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >(The poison trade...!? Another situation\nlike that...!?)"
+                                "\\n< Serena >(The poison trade...!?\nAnother situation similar...!?)"
                             ]
                         },
                         {
@@ -4112,7 +4140,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serena >(The thief's fortress... Like Lady Erika's\nback then...!)"
+                                "\\n< Serena >(At the thief's fortress...\nJust like Erika-dono back then...!)"
                             ]
                         },
                         {
@@ -4261,7 +4289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Huh? Is the opponent just some random guy?\nOr maybe a monster like a goblin?"
+                                "\\n< Serial Killer John >Huh? Was it just some random guy?\nOr maybe a monster like a goblin?"
                             ]
                         },
                         {
@@ -4402,7 +4430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Are you going to become food for a bad old\nman like me? Like this?"
+                                "\\n< Serial Killer John >Are you going to become food for a old\nman like me? Just like that?"
                             ]
                         },
                         {
@@ -4657,7 +4685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >H-Heh, I'm still clean, huh? The cuteness of a\npregnant woman's hole is something I\ncan't imagine."
+                                "\\n< Serial Killer John >Heh, this one's still pretty neat, huh?\nIt's so cute, it's hard to believe\nit's a pregnant woman's hole."
                             ]
                         },
                         {
@@ -4698,7 +4726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >You've got a nice pussy. Close it up tight."
+                                "\\n< Serial Killer John >You've got a nice pussy. Keep it tight."
                             ]
                         },
                         {
@@ -4859,7 +4887,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Your bulging belly looks uncomfortable.\nDespite being a kid, your body and pussy\nare so big..."
+                                "\\n< Serial Killer John >Your bulging belly looks cramped.\nYour body and pussy are just like a kid,\nbut your belly is so big..."
                             ]
                         },
                         {
@@ -5019,7 +5047,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serial Killer John >Oh, I found your hymen. Is it your first\ntime? Well, I guess that makes sense."
+                                "\\n< Serial Killer John >Oh, I found your hymen.\nIs it your firsttime?\nWell, I guess that makes sense."
                             ]
                         },
                         {
@@ -5108,7 +5136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >(He saw everything... by a man like\nthis...!?)"
+                                "\\n< Serena >(He saw everything... a man like\nthis...!?)"
                             ]
                         },
                         {
@@ -5317,7 +5345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Why, like that! Your tongue... in my\nmouth... ahahahahah!?!?"
+                                "\\n< Serena >Why, like that! Your tongue... in my\npussy... ahahahahah!?!?"
                             ]
                         },
                         {
@@ -5513,7 +5541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >At first, I can't tell the difference. But\nas I get used to it, it'll get better."
+                                "\\n< Serial Killer John >At first, it's hard to tell the difference.\nBut once you get used to it, it gets better."
                             ]
                         },
                         {
@@ -5712,7 +5740,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Huh? Even though it's your first time,\nyou're remembering it like a princess."
+                                "\\n< Serial Killer John >Oh? Are you remembering your first time, princess?"
                             ]
                         },
                         {
@@ -5743,7 +5771,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Just you wait. I'll dig up all your memories\nof hating both adult cocks and little\npussies!"
+                                "\\n< Serial Killer John >Just you wait.\nI'm going to dig up your pussy and\nall your bad memories with my adult dick!"
                             ]
                         },
                         {
@@ -5798,7 +5826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >U... Ugh...? What is it this time..."
+                                "\\n< Serena >Uh... uh...? Now what..."
                             ]
                         },
                         {
@@ -5829,7 +5857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >It's the real deal. You may not be soaking\nwet, but you've become a little more\nslippery."
+                                "\\n< Serial Killer John >Now's the real deal. You may not be soaking\nwet, but you've become a little more\nslippery."
                             ]
                         },
                         {
@@ -6115,7 +6143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >You're a little late in desperately resisting,\naren't you? I've already stuck it in\nyour hole."
+                                "\\n< Serial Killer John >A little late to be getting desperate, isn't it?\nI've already stuck it in your hole."
                             ]
                         },
                         {
@@ -6372,7 +6400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Such unsexy lines. Is it okay like that?"
+                                "\\n< Serial Killer John >That's a sexy line.\nYou sure you want to do that?"
                             ]
                         },
                         {
@@ -6853,7 +6881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Gyahaha! I did it, I did it! We've had sex,\nhaven't we?! How many times is this now?\nHey, you!"
+                                "\\n< Serial Killer John >Gahaha! I'm in, I'm in!\nWe're having sex! How many times have you done this?\nHey!"
                             ]
                         },
                         {
@@ -6891,7 +6919,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Hehehe. But don't you want a little more...?\nThen I'll thrust all the way to the\ndeepest part, you know!"
+                                "\\n< Serial Killer John >Hehehe. But don't you want a little more...?\nThen I'll thrust all the way to the\ndeepest part!"
                             ]
                         },
                         {
@@ -7010,7 +7038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Is it just the tip? Only the membrane has\nbeen broken."
+                                "\\n< Serial Killer John >Is it just the tip. Only the hymen has\nbeen broken."
                             ]
                         },
                         {
@@ -7041,7 +7069,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Deeper...to the very back...! I'll thrust all the\nway to the deepest part, you know!"
+                                "\\n< Serial Killer John >Deeper...to the very back...! I'll thrust all the\nway to the deepest part!"
                             ]
                         },
                         {
@@ -7242,7 +7270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Hehe, I wonder if a pregnant pussy is really\nthis tight?"
+                                "\\n< Serial Killer John >Heh, I didn't know pregnant\nwomen's cunts were this narrow."
                             ]
                         },
                         {
@@ -7294,7 +7322,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serial Killer John >Hehe, I wonder if a kid's pussy is\nsurprisingly easy to slip into...?"
+                                "\\n< Serial Killer John >Heh, it's pretty easy to get into\na kid's pussy, isn't it...?"
                             ]
                         },
                         {
@@ -7387,7 +7415,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serial Killer John >Hehe, I wonder if a kid's pussy is\nsurprisingly tight...?"
+                                "\\n< Serial Killer John >Hehe, a kid's pussy is\nsurprisingly tight...?"
                             ]
                         },
                         {
@@ -7438,7 +7466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Even if I put my weight on, it's only going\nin little by little...! Oh, but you're\nmoving forward... Can you feel it going\nin?"
+                                "\\n< Serial Killer John >Even if I put my weight on,\nit's only going in little by little...!\nOh, it's'removing forward...\nCan you feel it going in?"
                             ]
                         },
                         {
@@ -7476,7 +7504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >My! Cock is! Inside your! Pussy, huh?!"
+                                "\\n< Serial Killer John >My Cock! Is Inside! Your pussy, oh?!"
                             ]
                         },
                         {
@@ -7640,7 +7668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Hey!"
+                                "\\n< Serial Killer John >Ora!"
                             ]
                         },
                         {
@@ -7842,7 +7870,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serial Killer John >Ohh, did this reach the kid? Hey, kid, can\nyou hear me?"
+                                "\\n< Serial Killer John >Ohh, did I reach the kid? Hey, kid, can\nyou hear me?"
                             ]
                         },
                         {
@@ -7873,7 +7901,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serial Killer John >Your mom, you know, even though you're\ninside her belly, she's still having sex\nwith other men!"
+                                "\\n< Serial Killer John >Your mom, you know,\neven though you're inside her belly,\nshe's still having sexwith other men!"
                             ]
                         },
                         {
@@ -7938,7 +7966,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serial Killer John >Ohh, this is a good pussy. I envy the\nbastard who took her virginity!"
+                                "\\n< Serial Killer John >Ohh, this is a good pussy.\nI envy the bastard who took her virginity!"
                             ]
                         },
                         {
@@ -7989,7 +8017,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Oh, here we are. We've reached the deepest\npart. Passage complete. Virginity lost."
+                                "\\n< Serial Killer John >OOh, here we are. We're at the very end.\nThe door's open. You lost your virginity."
                             ]
                         },
                         {
@@ -8361,7 +8389,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Your shitty kid eyes won't cut it. These are\nthe eyes of a woman, the eyes of a\nmother. Show some backbone. Be strong\nand unyielding."
+                                "\\n< Serial Killer John >Your shitty kid eyes didn't cut it.\nThese are the eyes of a woman, the eyes of a mother.\nShow some backbone.\nBe strong and unyielding."
                             ]
                         },
                         {
@@ -8409,7 +8437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Your shitty kid eyes won't cut it. These are\nthe eyes of a beautiful woman. They\ndrive me crazy. I'll make you break\napart."
+                                "\\n< Serial Killer John >Your shitty kid eyes didn''t cut it.\nThese are the eyes of a beautiful woman.\nTheydrive me crazy.\nI'll break apart."
                             ]
                         },
                         {
@@ -8457,7 +8485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >It looks like you're going to have fun,\nhuh!"
+                                "\\n< Serial Killer John >It looks like you're going to have fun,\nhah!"
                             ]
                         },
                         {
@@ -8962,7 +8990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Rub your cock against that pussy! This is\nwhat adults do, right?! The essence of\nthis world!"
+                                "\\n< Serial Killer John >Rubing my cock in that pussy!\nThis is what adults do!\nThe essence of this world!"
                             ]
                         },
                         {
@@ -9000,7 +9028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Now that you've been born, huh! Sex! Let's\ndo it!"
+                                "\\n< Serial Killer John >Now that you've been reborn! Let's fuck!"
                             ]
                         },
                         {
@@ -9031,7 +9059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >After all, this is the most fun thing in the\nworld! Yeah!"
+                                "\\n< Serial Killer John >After all,\nthis is the most fun thing in the world! Ora!"
                             ]
                         },
                         {
@@ -9240,7 +9268,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >H-Ha! Your pregnant pussy is so tight! Just a\nlittle bit and I'm already poking it!"
+                                "\\n< Serial Killer John >H-Ha! Your pregnant pussy is so shallow!\nJust a little bit in and I already poked at it!"
                             ]
                         },
                         {
@@ -9326,7 +9354,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >H-Ha! Your loli pussy is so tight! I can't\nbelieve I reached this deep inside you!"
+                                "\\n< Serial Killer John >H-Ha! Your loli pussy is so shallow!\nI can't believe I reached this deep inside you!"
                             ]
                         },
                         {
@@ -9357,7 +9385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >You're lucky too! Ha...! It's not often you\nget to experience such deep sex like\nthis, especially when you're not quite\nan adult yet...!"
+                                "\\n< Serial Killer John >You're lucky too! Ha...!\nIt's not often you get to experience such deep sex likethis,\n specially when you're not quite an adult yet...!"
                             ]
                         },
                         {
@@ -9494,7 +9522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Oh, it's building up... Hehe, I'm gonna\ncum, gonna cum...?"
+                                "\\n< Serial Killer John >Oh, it's coming up...\nHehe, I'm gonna cum, gonna cum...?"
                             ]
                         },
                         {
@@ -9997,7 +10025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Oh... I'm coming, I'm coming..."
+                                "\\n< Serial Killer John >Oh... I'm cuming, I'm cuming..."
                             ]
                         },
                         {
@@ -10137,7 +10165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >(Something... is being... inserted...)"
+                                "\\n< Serena >(Something... is being... released...)"
                             ]
                         },
                         {
@@ -10683,7 +10711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Oh, it's all sticky... I came..."
+                                "\\n< Serial Killer John >Oh, I came...it's all sticky..."
                             ]
                         },
                         {
@@ -10714,7 +10742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Phew, that was delicious. Wasn't it tasty?"
+                                "\\n< Serial Killer John >Phew, that was nice. Wasn't it?"
                             ]
                         },
                         {
@@ -10898,7 +10926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >How's your virginity, huh?"
+                                "\\n< Serial Killer John >What about your hymen?"
                             ]
                         },
                         {
@@ -11256,7 +11284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >(Painful, heartbreaking... it's happening\nagain...)"
+                                "\\n< Serena >(Painful, heartbreaking...\nit's happening again...)"
                             ]
                         },
                         {
@@ -11577,7 +11605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Ah, I'm glad, I'm glad. It's been a while\nsince I felt this fired up~?"
+                                "\\n< Serial Killer John >Ah, I'm glad, I'm glad. It's been a while\nsince I felt this fired up~!"
                             ]
                         },
                         {
@@ -11890,7 +11918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Heheh, you should have thought twice before\nregretting. You should have assessed\nyour opponent before picking a fight,\nhuh?"
+                                "\\n< Serial Killer John >Heheh,\nyou should have thought twice before fighting me.\nYou should have assessed your opponent before picking a fight,\nhuh?"
                             ]
                         },
                         {
@@ -11971,7 +11999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >That's why I get to enjoy devouring your\nprecious virginity in a place like\nthis...?"
+                                "\\n< Serial Killer John >That's why I got to enjoy devouring your\nprecious virginity in a place like\nthis...?"
                             ]
                         },
                         {
@@ -12012,7 +12040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serial Killer John >Without any rest, you'll be subjected to a\nsecond round and a third round."
+                                "\\n< Serial Killer John >Without any rest,\nyou'll be going for a second round and a third round."
                             ]
                         },
                         {
@@ -12277,7 +12305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Eh... Ah... No way, you wouldn't... do\nsomething like that..."
+                                "\\n< Serena >Eh... Ah... No way, you wouldn't...\ndo something like that..."
                             ]
                         },
                         {
@@ -12357,7 +12385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Do your best. If you want to survive in\nthe womb, that is."
+                                "\\n< Serial Killer John >Do your best.\nIf you want to keep the kid alive in the womb,\nyou'll have to do it."
                             ]
                         },
                         {
@@ -12398,7 +12426,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serial Killer John >Do your best. This is the moment where you\neither live or die, so give it your all,\nokay?"
+                                "\\n< Serial Killer John >Do your best.\nThis is the moment where you either live or die,\nso give it your all, okay?"
                             ]
                         },
                         {
@@ -13782,7 +13810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Here..."
+                                "\\n< Serena >Were..."
                             ]
                         },
                         {
@@ -13870,7 +13898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I-I... if that's the case... losers,\ntogether... losing... in this place... a\ngarbage dump...?"
+                                "\\n< Serena >That's right……. The rogues, together... I lost... …This is a garbage dump…??"
                             ]
                         },
                         {
@@ -14109,14 +14137,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >.........Let's go back. We need to go back and clean\nup......."
+                                "………戻ろう。戻って、綺麗にしないと……。"
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\n<セレナ>"
                             ]
                         },
                         {
@@ -14152,6 +14180,32 @@
                         },
                         {
                             "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                1300,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "Scene_Recollection.prototype.rngd_exit_scene();"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
                             "indent": 0,
                             "parameters": []
                         },
@@ -14222,6 +14276,15 @@
                                 0,
                                 0,
                                 101
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                1307,
+                                1307,
+                                0
                             ]
                         },
                         {
