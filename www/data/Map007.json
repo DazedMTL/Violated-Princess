@@ -4504,7 +4504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Excuse me. Is the room available? I would like\nto borrow accommodations for a while."
+                                "\\n< Serena >Excuse me. Is there a room available?\nI need to rent a place to stay for a while."
                             ]
                         },
                         {
@@ -4542,7 +4542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper >Ah, the room is available... How many days\nare you planning to stay?"
+                                "\\n< Innkeeper >Huh, we have a room available,\nhow long do you plan to stay?"
                             ]
                         },
                         {
@@ -4587,84 +4587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I'm not sure yet. For now, I'd like to go\nwith this."
+                                "\\n< Serena >I'm not sure yet.\nFor now, I'd like to go with this."
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 203,
-                            "indent": 0,
-                            "parameters": [
-                                4,
-                                0,
-                                14,
-                                17,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 205,
-                            "indent": 0,
-                            "parameters": [
-                                4,
-                                {
-                                    "list": [
-                                        {
-                                            "code": 37,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 35,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 4,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 0
-                                        }
-                                    ],
-                                    "repeat": false,
-                                    "skippable": false,
-                                    "wait": true
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 37,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 35,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 4,
-                                    "indent": null
-                                }
+                                "\\n< Serena >"
                             ]
                         },
                         {
@@ -4747,11 +4677,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Please also prepare meals and a bed. If there\nare any shortages, I will pay for them\nseparately."
+                                "\\n< Serena >Please also prepare meals and a bed.\nIf it's not enough, I will pay more."
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4785,7 +4715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper >Don't worry about any shortages... Even if\nyou stay for 100 days, the price will be\nmore than enough."
+                                "\\n< Innkeeper >Don't worry about any shortages... Even if\nyou stay for 100 days, it will be\nmore than enough."
                             ]
                         },
                         {
@@ -4885,7 +4815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper >In this town, we have hot springs\navailable, and we guide guests to the\nbathing area."
+                                "\\n< Innkeeper >We have a hot spring in this town,\nso you can take a hot bath there."
                             ]
                         },
                         {
@@ -4985,7 +4915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper >I will prepare the room until you come\nback."
+                                "\\n< Innkeeper >We will have your room ready\nfor you by the time you return."
                             ]
                         },
                         {
@@ -5016,7 +4946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Hmm, then I'll be off. I've asked for the\nroom."
+                                "\\n< Serena >Hmmm...I'll be on my way then.\nTake care of the room."
                             ]
                         },
                         {
@@ -5465,7 +5395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Good day. May the blessings of the gods be\nupon you... Yes, I suppose I slept a bit\ntoo much."
+                                "\\n< Serena >Good day. May the blessings of the gods be\nupon you... Yes, I seven slept a bit\ntoo much."
                             ]
                         },
                         {
@@ -6255,7 +6185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well... Did they say it's located due south?"
+                                "\\n< Serena >Now...did they say it was just south of the city?"
                             ]
                         },
                         {
@@ -6279,7 +6209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well... It's not that big of a town. Even if we\ndon't know, if we walk around and ask,\nwe'll probably find it soon enough."
+                                "\\n< Serena >Well... It's not that big of a town. Even if I\ndon't know, if I walk around and ask,\nI'll probably find it soon enough."
                             ]
                         },
                         {
@@ -6674,7 +6604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well... Did they say it's located due south?"
+                                "\\n< Serena >Now...did they say it was just south of the city?"
                             ]
                         },
                         {
@@ -6698,7 +6628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well... It's not that big of a town. Even if we\ndon't know, if we walk around and ask,\nwe'll probably find it soon enough."
+                                "\\n< Serena >Well... It's not that big of a town. Even if I\ndon't know, if I walk around and ask,\nI'll probably find it soon enough."
                             ]
                         },
                         {
@@ -6833,217 +6763,7 @@
             "x": 15,
             "y": 19
         },
-        {
-            "id": 4,
-            "name": "お金用",
-            "note": "",
-            "pages": [
-                {
-                    "conditions": {
-                        "actorId": 1,
-                        "actorValid": false,
-                        "itemId": 1,
-                        "itemValid": false,
-                        "selfSwitchCh": "A",
-                        "selfSwitchValid": false,
-                        "switch1Id": 1,
-                        "switch1Valid": false,
-                        "switch2Id": 1,
-                        "switch2Valid": false,
-                        "variableId": 1,
-                        "variableValid": false,
-                        "variableValue": 1
-                    },
-                    "directionFix": false,
-                    "image": {
-                        "tileId": 352,
-                        "characterName": "",
-                        "characterIndex": 0,
-                        "direction": 2,
-                        "pattern": 0
-                    },
-                    "list": [
-                        {
-                            "code": 111,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                1,
-                                0,
-                                1,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 205,
-                            "indent": 1,
-                            "parameters": [
-                                0,
-                                {
-                                    "list": [
-                                        {
-                                            "code": 40,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 0
-                                        }
-                                    ],
-                                    "repeat": false,
-                                    "skippable": false,
-                                    "wait": true
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 40,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 411,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 205,
-                            "indent": 1,
-                            "parameters": [
-                                0,
-                                {
-                                    "list": [
-                                        {
-                                            "code": 39,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 0
-                                        }
-                                    ],
-                                    "repeat": false,
-                                    "skippable": false,
-                                    "wait": true
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 39,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 230,
-                            "indent": 0,
-                            "parameters": [
-                                10
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": []
-                        }
-                    ],
-                    "moveFrequency": 3,
-                    "moveRoute": {
-                        "list": [
-                            {
-                                "code": 0,
-                                "parameters": []
-                            }
-                        ],
-                        "repeat": true,
-                        "skippable": false,
-                        "wait": false
-                    },
-                    "moveSpeed": 3,
-                    "moveType": 0,
-                    "priorityType": 0,
-                    "stepAnime": false,
-                    "through": true,
-                    "trigger": 4,
-                    "walkAnime": true
-                },
-                {
-                    "conditions": {
-                        "actorId": 1,
-                        "actorValid": false,
-                        "itemId": 1,
-                        "itemValid": false,
-                        "selfSwitchCh": "A",
-                        "selfSwitchValid": false,
-                        "switch1Id": 1,
-                        "switch1Valid": false,
-                        "switch2Id": 1,
-                        "switch2Valid": false,
-                        "variableId": 2281,
-                        "variableValid": true,
-                        "variableValue": 5
-                    },
-                    "directionFix": false,
-                    "image": {
-                        "tileId": 0,
-                        "characterName": "",
-                        "direction": 2,
-                        "pattern": 0,
-                        "characterIndex": 0
-                    },
-                    "list": [
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": []
-                        }
-                    ],
-                    "moveFrequency": 3,
-                    "moveRoute": {
-                        "list": [
-                            {
-                                "code": 0,
-                                "parameters": []
-                            }
-                        ],
-                        "repeat": true,
-                        "skippable": false,
-                        "wait": false
-                    },
-                    "moveSpeed": 3,
-                    "moveType": 0,
-                    "priorityType": 0,
-                    "stepAnime": false,
-                    "through": true,
-                    "trigger": 4,
-                    "walkAnime": true
-                }
-            ],
-            "x": 1,
-            "y": 0
-        },
+        null,
         {
             "id": 5,
             "name": "EV005",
@@ -7364,7 +7084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well... Did they say it's located due south?"
+                                "\\n< Serena >Now...did you say it was directly south?"
                             ]
                         },
                         {
@@ -7388,7 +7108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well... It's not that big of a town. Even if we\ndon't know, if we walk around and ask,\nwe should be able to find it soon\nenough."
+                                "\\n< Serena >Well... It's not that big of a town. Even if I\ndon't know, if I walk around and ask,\nI'll probably find it soon enough."
                             ]
                         },
                         {
@@ -10194,7 +9914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Hmmm... Why are you investigating something\nlike this?"
+                                "\\n< Serena >Umm... why am I looking into this stuff?"
                             ]
                         },
                         {
@@ -10661,7 +10381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >It's surprising that they're renting out a\nplace like this, but it's even more\nsurprising for those who stay here. I\nwonder how they sleep..."
+                                "\\n< Serena >It's surprising that they're renting out a\nplace like this, but it's even more\nsurprising people wants to stay there.\nI wonder how they sleep..."
                             ]
                         },
                         {
@@ -10844,7 +10564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Should I invest and increase the lineup? I'm\nseriously considering it."
+                                "\\n< Serena >Should I invest and increase the production?\nI'm seriously considering it."
                             ]
                         },
                         {
@@ -11659,7 +11379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I hope they learn their lesson from this\nand become a little sweeter."
+                                "\\n< Serena >I hope they learn their lesson from this\nand become a little nicer."
                             ]
                         },
                         {
@@ -12021,14 +11741,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >It's a bag of flour."
+                                "小麦粉の袋だ。"
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\n<セレナ>"
                             ]
                         },
                         {
@@ -12045,14 +11765,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >It doesn't seem like I can lift it."
+                                "私にはとても持ち上げられそうにない。"
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\n<セレナ>"
                             ]
                         },
                         {
@@ -12164,7 +11884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Where is the big dick?"
+                                "\\n< Serena >Oh, great place."
                             ]
                         },
                         {
@@ -12188,7 +11908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I'm cooking. You shouldn't touch it."
+                                "\\n< Serena >It's cooking. I shouldn't touch it."
                             ]
                         },
                         {
