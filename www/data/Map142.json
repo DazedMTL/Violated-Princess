@@ -1866,6 +1866,15 @@
                     },
                     "list": [
                         {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                1305,
+                                1305,
+                                0
+                            ]
+                        },
+                        {
                             "code": 117,
                             "indent": 0,
                             "parameters": [
@@ -1964,6 +1973,13 @@
                             "indent": 0,
                             "parameters": [
                                 78
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                91
                             ]
                         },
                         {
@@ -2512,8 +2528,27 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "回想セーブ Defeated_by_Dodge"
+                                0,
+                                1300,
+                                1
                             ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
+                            "parameters": [
+                                "Recollection Defeated_by_Dodge"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
                         },
                         {
                             "code": 203,
@@ -2940,7 +2975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Haa, haa... You... just one step away..."
+                                "Ha, ha... I... I'm just one step away..."
                             ]
                         },
                         {
@@ -3027,7 +3062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >In the end, you're just a toilet. You\ncan't beat my cock!"
+                                "\\n< Bear Claw Dodge >In the end, you're just toilets. You\ncan't beat my cock!"
                             ]
                         },
                         {
@@ -3082,7 +3117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >What the hell is gonna happen, huh!? You\nbetter understand, you know!?"
+                                "\\n< Bear Claw Dodge >What's going to happen to you, eh oi!\nYou know what's going to happen, don't you?"
                             ]
                         },
                         {
@@ -3266,7 +3301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >That's enough! Do as you please. You don't\nhave to treat it delicately! Use it with\nthe intention of breaking it, and\ntorment it to the end!"
+                                "\\n< Bear Claw Dodge >That's enough! Do as you please. You don't\nhave to treat it delicately! Use it with\nthe intention of breaking it, and\ntorment it until the end!"
                             ]
                         },
                         {
@@ -3297,7 +3332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Let's thrust our cocks into every hole, pour\nin our cum, tear off their limbs and\ngouge out their eyeballs."
+                                "\\n< Bear Claw Dodge >I'll fuck you in every hole,\In'll cum in every hole, I'll rip off your arms and legs,\nI'll gouge your eyeballs,\nI'll fuck you in every hole."
                             ]
                         },
                         {
@@ -3328,7 +3363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >It's all free! Do as you please!"
+                                "\\n< Bear Claw Dodge >It's all up for grabs! Do as you please!"
                             ]
                         },
                         {
@@ -3645,7 +3680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Erika-sama!"
+                                "\\n< Serena >Erika-dono!"
                             ]
                         },
                         {
@@ -4175,7 +4210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >As the newcomer, it's my duty to be the\nfirst one to taste the toilet."
+                                "\\n< Bear Claw Dodge >I'm supposed to taste the new toilet bowl first."
                             ]
                         },
                         {
@@ -4293,7 +4328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Stop and Let me go?"
+                                "\\n< Bear Claw Dodge >'Stop' 'Let us go'?"
                             ]
                         },
                         {
@@ -4341,7 +4376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Don't act like you care about others. From\nnow on, right now, you will also become\nan ahh. Just like Erika..."
+                                "\\n< Bear Claw Dodge >This is no time to worry about others, right?\nFrom now on, from this very moment on,\nyou're going to be 'like that' too.\nJust like Erica..."
                             ]
                         },
                         {
@@ -4476,7 +4511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >It's quite a sight, isn't it...? Huh? Hey!"
+                                "\\n< Bear Claw Dodge >It's something to see...?\nYeah? Oi!"
                             ]
                         },
                         {
@@ -4955,7 +4990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Hehehe, I shouldn't have such childish hobbies.\nBut my cock-sama has been in emergency\ndeployment mode since earlier."
+                                "\\n< Bear Claw Dodge >I'm sure I'm not much into kids. But my dick has been on the emergency alert since a few minutes ago."
                             ]
                         },
                         {
@@ -5017,7 +5052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Make this bitch pregnant already! Can't stop\nmy cum from flowing, you know!"
+                                "\\n< Bear Claw Dodge >He wants me to impregnate this\nfemale as soon as possible!\nI can't stop my cum from flowing, you know!"
                             ]
                         },
                         {
@@ -5420,7 +5455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >First, your life will be blessed by the\nalmighty cock-sama!"
+                                "\\n< Bear Claw Dodge >Your life starts with your first dick!"
                             ]
                         },
                         {
@@ -6009,7 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Hiiii, so weak, so weak. Where did your\nrampage from earlier go?"
+                                "\\n< Bear Claw Dodge >Hiiii, so weak, so weak. Where did your\nfrenzy from earlier go?"
                             ]
                         },
                         {
@@ -6189,7 +6224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Can you see all the way to the pink hymen\ndeep inside your tight, tightly closed\npussy? Huh?"
+                                "\\n< Bear Claw Dodge >I can even see through the\npink virgin membrane deep inside\nyour tightly closed tight pussy. See?"
                             ]
                         },
                         {
@@ -6910,7 +6945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Haa... Haa... You...! Tremble...!"
+                                "\\n< Serena >Huh...huh...you son of a bitch...! You can't..."
                             ]
                         },
                         {
@@ -7183,7 +7218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >It's stuck. It's stuck, you know? Huh? It's\nstuck. Do you know where my cock is\nsticking to right now...?"
+                                "\\n< Bear Claw Dodge >It's stuck. It's stuck, you know?\nHuh? It got stuck.\nDo you know where my cock is\nsticking to right now...?"
                             ]
                         },
                         {
@@ -7214,21 +7249,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >It's there, right? Of course, it's there...\nhehehe! It's something that sticks\ntogether, you know!"
+                                "\\n< Bear Claw Dodge >'There' That's right,\nright 'There'... Hihihihi!\nIt's sticking to me!"
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "くっついちまうモンがよぉ！"
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\n<熊手のドッジ>"
                             ]
                         },
                         {
@@ -7285,7 +7320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >N-No...! What is this sensation... It's so, so\nawful...!"
+                                "\\n< Serena >No, I don't like it...!\nWhat is this feeling...I hate it so much..!"
                             ]
                         },
                         {
@@ -7433,7 +7468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Hahaha, even a kid can understand it\ninstinctively, huh? Instincts are\namazing, aren't they, Erika?"
+                                "\\n< Bear Claw Dodge >Hahaha, even a kid can understand it\ninstinctively, huh? Instincts are\namazing, aren't they?"
                             ]
                         },
                         {
@@ -7464,7 +7499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >...It's your hymen, you know. Your hymen is\nbeing penetrated by my hot cock."
+                                "\\n< Bear Claw Dodge >...It's your hymen, you know. Your hymen is\nbeing poked by my hot cock."
                             ]
                         },
                         {
@@ -7700,7 +7735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Now, my unreliable cock is poking at this\nfragile membrane."
+                                "\\n< Bear Claw Dodge >It's just this one unreliable membrane that my dick is poking at right now."
                             ]
                         },
                         {
@@ -7803,7 +7838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Of course, it's like a proof of purity, so\nit won't heal. The membrane is only once\nin a lifetime, once it's torn, that's\nit."
+                                "\\n< Bear Claw Dodge >Of course, since it's a proof of purity,\nit won't heal. This membrane is only once\nin a lifetime, once it's torn,\nthat's it."
                             ]
                         },
                         {
@@ -8320,7 +8355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >What will happen to me now, what will I\nbecome, what will I lose!"
+                                "\\n< Bear Claw Dodge What will you do from now on,\nwhat will you become,\nand will you cease to exist?"
                             ]
                         },
                         {
@@ -9861,7 +9896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Ruin your life, you little brat."
+                                "\\n< Bear Claw Dodge >I'll destroy your life. You little bitch."
                             ]
                         },
                         {
@@ -9985,6 +10020,32 @@
                             "parameters": [
                                 40
                             ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                1300,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "Scene_Recollection.prototype.rngd_exit_scene();"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
                         },
                         {
                             "code": 203,
@@ -10790,7 +10851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Bear Claw Dodge >Huh? Ah...right now...the best part..."
+                                "\\n< Bear Claw Dodge >Huh? Ah...right now...at the best part..."
                             ]
                         },
                         {
@@ -11705,7 +11766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Lord Erika!"
+                                "\\n< Serena >Erika-dono!"
                             ]
                         },
                         {
@@ -12035,6 +12096,15 @@
                                     "code": 38,
                                     "indent": null
                                 }
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                1305,
+                                1305,
+                                0
                             ]
                         },
                         {
