@@ -2817,7 +2817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Lord Barden... No."
+                                "\\n< Serena >Barden-dono... No."
                             ]
                         },
                         {
@@ -2927,7 +2927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Hehehe. This poison, you know, it's\nirresistible. They call it the\ninheritance drug or something, but\nthey're just making up some plausible\nexcuse."
+                                "\\n< Barden >Hehehe. This poison, you know, it's\nirresistible. They call it the\ninheritance drug or something, but\nthey're just making up some\nexcuse."
                             ]
                         },
                         {
@@ -2959,7 +2959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Actually, everyone doesn't really care about\nthat. It's easy, without getting caught,\nto unilaterally kill others from a safe\ndistance."
+                                "\\n< Barden >In fact, people don't really care about that.\nIt is easy, undetectable, and can kill\nothers one-sidedly from a safe distance."
                             ]
                         },
                         {
@@ -3015,7 +3015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >So, you're also one of those people?"
+                                "\\n< Barden >So, are you also one of those people?"
                             ]
                         },
                         {
@@ -3784,7 +3784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Barden >This isn't a joke. It's not a joke! You\npathetic, pregnant female...! Just a\nsimple slap... what is this pain, this\npower...!"
+                                "\\n< Barden >You gotta be kidding me. This is a joke! You\npathetic, pregnant female...! Just a\nsimple slap... what is this pain, this\npower...!"
                             ]
                         },
                         {
@@ -3833,7 +3833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Barden >This isn't a joke. It's not a joke! Just a\nsimple slap... what is this pain, this\npower...!"
+                                "\\n< Barden >You gotta be kidding me.\nThis isn't a joke. It's not a joke! Just a\nsimple slap... what is this pain, this\npower...!"
                             ]
                         },
                         {
@@ -3895,7 +3895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Sound Fist. It's not the power meant for\nusing it like this, though."
+                                "\\n< Serena >Sound Fist.\nIt is not originally designed to be used in this way,\nthough."
                             ]
                         },
                         {
@@ -4343,7 +4343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I played my music. It was modest, but\nit'll twist your insides for a while."
+                                "\\n< Serena >I started playing. But modestly.\nYour internal organs will be twisted and you\nwon't be able to stand up for a while."
                             ]
                         },
                         {
@@ -4692,7 +4692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >In other words, as a starting capital for\nbecoming that so-called mailman, I got\ninvolved in the poison selling business."
+                                "\\n< Serena >In other words,\nyou got into the business of selling poison to finance the\nopening of this post office or whatever it is called."
                             ]
                         },
                         {
@@ -4802,7 +4802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Tim >Barden-kun said he was fine...and kept\nrenovating...and I couldn't stop him..."
+                                "\\n< Tim >Barden-kun said it was fine...and kept\nrenovating...and I couldn't stop him..."
                             ]
                         },
                         {
@@ -4968,7 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Lord Tim sold poison. That means he was\nindirectly involved in murder."
+                                "\\n< Serena >Tim-dono sold poison.\nThat means you were indirectly involved in murder."
                             ]
                         },
                         {
@@ -4999,7 +4999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >It's not something that can be forgiven."
+                                "\\n< Serena >It is unacceptable."
                             ]
                         },
                         {
@@ -5325,7 +5325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Even though I should have punished evil, I\nfeel very, very unpleasant."
+                                "\\n< Serena >Even though I have punished evil, I\nfeel very, very unpleasant."
                             ]
                         },
                         {
@@ -5500,6 +5500,15 @@
                             ]
                         },
                         {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                1348,
+                                1348,
+                                0
+                            ]
+                        },
+                        {
                             "code": 201,
                             "indent": 0,
                             "parameters": [
@@ -5654,8 +5663,27 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "回想セーブ Defeated_by_Bardon"
+                                0,
+                                1300,
+                                1
                             ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
+                            "parameters": [
+                                "Recollection Defeated_by_Bardon"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
                         },
                         {
                             "code": 203,
@@ -6144,7 +6172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Ugh, so troublesome. Trying to undress and\nfight at the same time."
+                                "\\n< Barden >What a pain in the ass.\nYou're wearing clothes that are too hard to take off."
                             ]
                         },
                         {
@@ -6175,7 +6203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Well, whatever. After all, the only thing\nthat's flat and boring to look at is\nyour chest."
+                                "\\n< Barden >Oh well.\nThe only thing that thing fits anyway is a flat,\nboring looking chest."
                             ]
                         },
                         {
@@ -6217,7 +6245,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Barden >What I need is inside your skirt... Oh, shh,\nshh. Oh, your belly is huge. It's so\npowerful..."
+                                "\\n< Barden >What I need is inside your skirt.... Your belly is huge. It's so\nimpressive"
                             ]
                         },
                         {
@@ -6258,7 +6286,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Barden >What I need is inside your skirt... Oh, shh,\nshh. The structure here is normal."
+                                "\\n< Barden >What I need is inside your skirt... The clothes here are normal."
                             ]
                         },
                         {
@@ -6605,7 +6633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Barden >Come to think of it, I've only been with\nolder people. My first experience was\nwith an immature kid..."
+                                "\\n< Barden >Come to think of it, I've only been with\nolder people. It's my first experience was\nwith an immature kid..."
                             ]
                         },
                         {
@@ -6650,7 +6678,7 @@
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 1,
                             "parameters": [
                                 ""
@@ -6694,7 +6722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >H-Hey, get wet. You're such a pain..."
+                                "\\n< Barden >H-Hey, you should wet it.\nYou're such a pain..."
                             ]
                         },
                         {
@@ -6782,7 +6810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Can you come with just saliva? Well, you'll\nget wet as I violate you."
+                                "\\n< Barden >Can you spit on it? Well, whatever, you'll get wet while you're fucking."
                             ]
                         },
                         {
@@ -6951,7 +6979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Ahh, I'm going in."
+                                "\\n< Barden >Ahhhh, yeah, I'm coming in."
                             ]
                         },
                         {
@@ -7250,7 +7278,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Barden >Huh? You... aren't a virgin, are you? You're\nquite promiscuous for your age."
+                                "\\n< Barden >Hmm? You're not a ...... virgin?\nYou're a slut at that age?"
                             ]
                         },
                         {
@@ -7504,7 +7532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Barden >Just because it's in your belly? Who cares.\nYou should put in some effort and\nprotect it yourself."
+                                "\\n< Barden >Just because I'm inside your belly, huh?\nI don't care. You're the one who's supposed to be protecting him."
                             ]
                         },
                         {
@@ -7587,7 +7615,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Barden >Yeah, yeah. Women always say that. So, deep\ndown, they want me to push their\nbuttons, you know?"
+                                "\\n< Barden >Yes, yes. Women always say that.\nBut inside, they want to get into it."
                             ]
                         },
                         {
@@ -7808,13 +7836,6 @@
                             ]
                         },
                         {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                108
-                            ]
-                        },
-                        {
                             "code": 122,
                             "indent": 0,
                             "parameters": [
@@ -7862,10 +7883,28 @@
                             ]
                         },
                         {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                230,
+                                230,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
                             "code": 117,
                             "indent": 0,
                             "parameters": [
                                 724
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                118
                             ]
                         },
                         {
@@ -8540,7 +8579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Tim >I... went home."
+                                "\\n< Tim >They... went home."
                             ]
                         },
                         {
@@ -8564,7 +8603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >How many bags did you purchase?"
+                                "\\n< Barden >How many bags did they purchase?"
                             ]
                         },
                         {
@@ -8660,7 +8699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >I'm moving."
+                                "\\n< Barden >I'll start moving."
                             ]
                         },
                         {
@@ -9004,7 +9043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >No way! It's a waste of time! Besides,\nthis person is just a prostitute, right?"
+                                "\\n< Barden >No way! It's a waste of time! Besides,\nthis is just a prostitute anyway, right?"
                             ]
                         },
                         {
@@ -9075,7 +9114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Kisa, ma...!"
+                                "\\n< Serena >Bas,tard...!"
                             ]
                         },
                         {
@@ -9137,7 +9176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Will you cry? Will you be scared? Maybe\nyou'll even come at me to protect them,\nhuh?"
+                                "\\n< Barden >Crying? Scared? Maybe they'll come to your rescue and beat me up?"
                             ]
                         },
                         {
@@ -9168,7 +9207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Then maybe there's a chance they could help?\nShould we put our hopes on their skinny\narms?"
+                                "\\n< Barden >Maybe then he'll have a chance to save the day, huh? You want to put your hope in that guy's skinny arms?"
                             ]
                         },
                         {
@@ -9294,7 +9333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Is it worth enduring and protecting them\nwithout getting involved?"
+                                "\\n< Barden >I wonder if it's worth it to be patient\nand shelter them from getting involved?"
                             ]
                         },
                         {
@@ -9544,7 +9583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >It's still only 30 bags. I can't say we're\non track yet. Well, the seeds are just\nsmall change, so it's natural that the\nspeed is slow."
+                                "\\n< Barden >It's still only 30 bags. I can't say we're\non track yet. Well, the price is just\nsmall change, so it's natural that the\nspeed is slow."
                             ]
                         },
                         {
@@ -9623,7 +9662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Sorry, but I'll wait until things are a bit\nmore stable before handing out your\nshare... Hmph! Hehe, this guy!"
+                                "\\n< Barden >Sorry, but I'll wait until things are a bit\nmore stable before handing out your\nshare... Hmph! Hehe, this girl!"
                             ]
                         },
                         {
@@ -9899,7 +9938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >It's fine. I just suddenly became curious.\nMaybe it's because the girl I'm\ncurrently seeing resembles her."
+                                "\\n< Barden >It's fine. I just suddenly became curious.\nMaybe it's because the girl I'm\ncurrently fucking resembles her."
                             ]
                         },
                         {
@@ -10001,7 +10040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Tim >Let's get along... please."
+                                "\\n< Tim >We get along well..."
                             ]
                         },
                         {
@@ -10025,7 +10064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Have you done it already?"
+                                "\\n< Barden >Have you fucked her yet?"
                             ]
                         },
                         {
@@ -10476,7 +10515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >If you keep obeying that guy's orders all\nthe time, you'll end up dead before\nbecoming an adult."
+                                "\\n< Barden >If you keep obeying that guy's orders all\nthe time, you'll end up dead before\nbecoming an old man."
                             ]
                         },
                         {
@@ -10662,7 +10701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Tim >I... I want to stop already..."
+                                "\\n< Tim >I... I want to anymore..."
                             ]
                         },
                         {
@@ -10865,7 +10904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Because she would hate me too?"
+                                "\\n< Barden >Because she would hate you too?"
                             ]
                         },
                         {
@@ -11039,7 +11078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >But because we're already doing it in\nreality, right? Are we already\naccomplices?"
+                                "\\n< Barden >But I've done it in actuality.\nnWe're already accomplices, aren't we?"
                             ]
                         },
                         {
@@ -11747,7 +11786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Haa... Psycho..."
+                                "\\n< Barden >Wow, that's awesome...."
                             ]
                         },
                         {
@@ -11988,7 +12027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Poo... hehe, that was exciting, huh?"
+                                "\\n< Barden >Phew... hehe, that was exciting, huh?"
                             ]
                         },
                         {
@@ -12019,7 +12058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >M-Master...!"
+                                "Bas...tard!"
                             ]
                         },
                         {
@@ -12043,7 +12082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >As I thought, involving Lord Tim\nforcibly...!"
+                                "\\n< Serena >As expected,\nTim-dono was forced to get involved...!"
                             ]
                         },
                         {
@@ -12180,7 +12219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Barden >So that was the first cry of being\ncreampied in your pregnant belly, huh?\nAre you crying like a baby inside your\nbelly?"
+                                "\\n< Barden >That's the first thing you say when you get creampied in your belly. The baby.. isn't going to cry??"
                             ]
                         },
                         {
@@ -12232,7 +12271,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Barden >So that was the first cry of being\ncreampied in your pussy, huh? You're\nquite an interesting person, aren't you?"
+                                "\\n< Barden >That's the first thing you say after\nyou've been raped and got creampied.\nYou're a funny woman, aren't you?"
                             ]
                         },
                         {
@@ -12273,7 +12312,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Barden >So that was the first cry of having your\nhymen stolen and being creampied, huh?\nYou're quite an interesting person,\naren't you?"
+                                "\\n< Barden >That's the first thing you say after having\nyour hymen broken and and got creampied.\nYou're a funny woman, aren't you?"
                             ]
                         },
                         {
@@ -12324,7 +12363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >So, I thought it would be quicker to\nexplain if I had you listen, that's why\nI asked you to sit with me."
+                                "\\n< Barden >So I asked him to be present because I\nthought it would be quicker to have you listen to him."
                             ]
                         },
                         {
@@ -12490,7 +12529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >To put it more bluntly, that guy is more\ndangerous than me, right? This is his\nplace after all. Living together, huh?"
+                                "\\n< Barden >To put it more bluntly, that guy is more\ndangerous than me, right? This is his\nplace after all. You're iving together, huh?"
                             ]
                         },
                         {
@@ -12521,7 +12560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >If we get involved with the city police,\nwe will definitely get caught."
+                                "\\n< Barden >If I tipped off the city police,\nthey would surely catch you both."
                             ]
                         },
                         {
@@ -12694,7 +12733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >......That person who looked down on me so\nmuch...!"
+                                "\\n< Serena >......You keep looked down on me so\nmuch...!"
                             ]
                         },
                         {
@@ -12736,7 +12775,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Barden >So, if you're so attached to that person\nthat you can endure being fucked,"
+                                "\\n< Barden >So, you know,\nif you care about him so much that you'll put up\nwith being fucked."
                             ]
                         },
                         {
@@ -12788,7 +12827,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Barden >So, if you're so attached to that person\nthat you can endure being fucked,"
+                                "\\n< Barden >So, you know,\nif you care about him so much that you'll put up\nwith being fucked."
                             ]
                         },
                         {
@@ -12829,7 +12868,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Barden >So, if you're so attached to that person\nthat you can endure being fucked."
+                                "\\n< Barden >So, you know,\nif you care about him so much that you'll put up\nwith being fucked."
                             ]
                         },
                         {
@@ -12999,7 +13038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >Well then, you... While Serena is keeping me\ncompany, I'll suspend the sale of\npoison."
+                                "\\n< Barden >Well then, how about...\nWhile Serena is keeping me company,\nI'll suspend the sale of poison."
                             ]
                         },
                         {
@@ -13125,7 +13164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >No, it's an emergency evacuation, you know?\nOf course, I'll arrange the money again,\nbut... If I can play with Serena, I\nwonder if it's okay to prioritize her\nfor a while."
+                                "\\n< Barden >If it's an emergency evacuation, of course,\nI'll arrange the money again,but...\nIf I can play with Serena,\nI'm willing to give you priority for a while."
                             ]
                         },
                         {
@@ -13617,7 +13656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Barden >I can't let go, huh...? Ceci..."
+                                "\\n< Barden >You can't let go,\ncan you ......? Shish ......."
                             ]
                         },
                         {
@@ -13840,6 +13879,50 @@
                         },
                         {
                             "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                1300,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                925,
+                                925,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [
+                                391
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "Scene_Recollection.prototype.rngd_exit_scene();"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
                             "indent": 0,
                             "parameters": []
                         },
@@ -14462,7 +14545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Feeling down... Time is..."
+                                "\\n< Serena >I have no time...Feeling down...."
                             ]
                         },
                         {
