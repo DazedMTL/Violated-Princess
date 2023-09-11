@@ -1511,7 +1511,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A slime larva came out of Serena. He can't communicate,\nand it is not even clear ifit's sleeping or not.",
+        "description": "A slime larva came out of Serena. He can't communicate,\nand it is not even clear if it's sleeping or not.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 13,
@@ -2005,7 +2005,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A child born between Serena and the owner of the cheap\ninn, Vincent. Serana has no memory of it and is terrified.",
+        "description": "A child born between Serena and the owner of the cheap\ninn, Vincent.\nSerena has no memory of it and is terrified.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,
@@ -2057,7 +2057,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The baby that Serena had with Samuel.\nIt is quiet whiledrinking milk.",
+        "description": "The baby that Serena had with Samuel.\nIt is quiet while drinking milk.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 12,

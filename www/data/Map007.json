@@ -4681,7 +4681,7 @@
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -11741,7 +11741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小麦粉の袋だ。"
+                                "It's a bag of flour."
                             ]
                         },
                         {
@@ -11765,14 +11765,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私にはとても持ち上げられそうにない。"
+                                "I can't seem to lift it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<セレナ>"
+                                "\\n<Serena>"
                             ]
                         },
                         {
