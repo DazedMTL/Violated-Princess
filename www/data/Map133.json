@@ -3351,7 +3351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >...They're wandering around without any sense of\ntension. Don't they realize they're\nhandling prohibited items?"
+                                "\\n< Serena >...They're wandering around without any sense of\ndanger. Don't they realize they're\nhandling prohibited items?"
                             ]
                         },
                         {
@@ -3382,7 +3382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >We've observed enough for now. Let's start\ncleaning up soon."
+                                "\\n< Serena >I've observed enough for now. Let's start\ncleaning up soon."
                             ]
                         },
                         {
@@ -3606,7 +3606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well... Shall we act as adventurers in the\ntown? I don't think I need to explain\nthe requirements, right?"
+                                "\\n< Serena >Well...\nlet's just say I'm an adventurer in town.\nI don't need to tell you the exact details,\ndo I?"
                             ]
                         },
                         {
@@ -3949,7 +3949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >They're a bunch without any sense of\naccomplishment."
+                                "\\n< Serena >They are unresponsive."
                             ]
                         },
                         {
@@ -3983,7 +3983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I'm not someone from the hot spring town.\nBut I don't seem like someone who has\nbeen camping or on a long journey\neither."
+                                "\\n< Serena >You're someone from the hot spring town.\nBut you don't seem like someone who has\nbeen camping or on a long journey\neither."
                             ]
                         },
                         {
@@ -4007,7 +4007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Are you someone from that town to the east?\nI see. You have that kind of appearance."
+                                "\\n< Serena >Are you someone from that town to the east?\nYou have that kind of appearance."
                             ]
                         },
                         {
@@ -4114,7 +4114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >The town to the east... It must be quite\nrough. Splendore..."
+                                "\\n< Serena >The town to the east... It must be quite\nrough."
                             ]
                         },
                         {
@@ -4388,7 +4388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >Hey, you there, you wouldn't be thinking of\ndoing something bad, would you?"
+                                "\\n< Guild Master >Hey, you...you wouldn't be thinking of\ndoing something bad, would you?"
                             ]
                         },
                         {
@@ -4512,7 +4512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well, it's a good thing I was able to come up\nwith a second best plan."
+                                "\\n< Serena >Well, it's a good thing I was able to come up\nwith a better second plan."
                             ]
                         },
                         {
@@ -4574,7 +4574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >Hey hey, as you wish."
+                                "\\n< Guild Master >Hey, as you wish."
                             ]
                         },
                         {
@@ -4896,6 +4896,41 @@
                         "tileId": 0
                     },
                     "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                1303,
+                                1303,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                1300,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
+                            "parameters": [
+                                "Recollection Save Hot Springs Town Smuggler Defeated"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
                         {
                             "code": 121,
                             "indent": 0,
@@ -5667,13 +5702,6 @@
                             ]
                         },
                         {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "回想セーブ Defeated_by_Smuggler"
-                            ]
-                        },
-                        {
                             "code": 122,
                             "indent": 0,
                             "parameters": [
@@ -5818,7 +5846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >This guy was using some strange weapon. Is\nit some kind of magical equipment?"
+                                "\\n< Male >This girl is using some strange weapon.\nIs it some kind of magical equipment?"
                             ]
                         },
                         {
@@ -5849,7 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >If I sell it, I can make some money. It\nmight be an unexpected temporary income."
+                                "\\n< Male >If I sell it, I can make some money.\nMaybe some unexpected extra income."
                             ]
                         },
                         {
@@ -6261,7 +6289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Hey... Don't tighten it too much. You're\nplanning to sell me, right?"
+                                "\\n< Male >Hey... Don't tighten it too much. You're\nplanning to sell her, right?"
                             ]
                         },
                         {
@@ -6404,7 +6432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Geez, you're still a kid. Can you even get\nhard like this?"
+                                "\\n< Male >Geez, she's still a kid. Can you even get\nhard like this?"
                             ]
                         },
                         {
@@ -6491,7 +6519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Oh, I'm gonna do it! It's not often that I\nget a chance to do it with a short-\nhaired person like this!"
+                                "\\n< Male >Oh, I'm going to fuck her!\nIt's not every day you get a chance to\nfuck such a blondie!"
                             ]
                         },
                         {
@@ -6765,7 +6793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >So, what on earth..."
+                                "\\n< Serena >What on earth..."
                             ]
                         },
                         {
@@ -8117,7 +8145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Nipples, huh? Even kids can get hard, huh?"
+                                "\\n< Male >Nipples, huh? Can kids even get hard, huh?"
                             ]
                         },
                         {
@@ -8615,7 +8643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >You're making it bounce. How does it feel when\nyou squeeze it?"
+                                "\\n< Male >You're making it bounce. How does it feel when\nI squeeze it?"
                             ]
                         },
                         {
@@ -8836,7 +8864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Then, should we go to a brothel? You have\ngreat potential for the future, right?"
+                                "\\n< Male >Then why don't we just dump her in a whorehouse?\nShe's got a great future."
                             ]
                         },
                         {
@@ -9284,7 +9312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Hehehe... At this rate, I bet your pussy will be\nsmooth and pink."
+                                "\\n< Male >Hi-hi-hi-hi...at this rate,\nthe membrane will be slippery pink too!"
                             ]
                         },
                         {
@@ -11757,7 +11785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I'm sorry, Erika-sama... You... helped me."
+                                "\\n< Serena >I'm sorry, Erika-sama-dono... You... saved me."
                             ]
                         },
                         {
@@ -11881,7 +11909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >The people gathering in this town these\ndays, they're all like this, huh?"
+                                "\\n< Erika >These are the kind of people who are\ngathering in the east now, you know?"
                             ]
                         },
                         {
@@ -12036,7 +12064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >If that's the case, then I definitely\ncan't leave you alone."
+                                "\\n< Serena >However, I can't just leave it at that."
                             ]
                         },
                         {
@@ -12060,7 +12088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >If it's true that she is trapped in this\nmelting pot filled with people like\nthis..."
+                                "\\n< Serena >If that child is trapped in a\nmelting pot of such people...."
                             ]
                         },
                         {
@@ -12129,7 +12157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >...So we're connected like this, huh... Well,\nit's just like Serena, I guess."
+                                "\\n< Erika >...So we're not seeying eye to eye, huh... Well,\nit's just like Serena, I guess."
                             ]
                         },
                         {
@@ -12167,7 +12195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >But, you know, when I found you being\nattacked, you can at least understand\nhow much my heart almost jumped out of\nmy chest, right?"
+                                "\\n< Erika >But, you know, when I found you being\nattacked, can at least understand\nhow much my heart almost jumped out of\nmy chest, right?"
                             ]
                         },
                         {
@@ -12267,7 +12295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >...Well, I think I'll go home for today."
+                                "\\n< Erika >...Well, I think we'll go home for today."
                             ]
                         },
                         {
@@ -12279,6 +12307,32 @@
                         },
                         {
                             "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                1300,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "Scene_Recollection.prototype.rngd_exit_scene();"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
                             "indent": 0,
                             "parameters": []
                         },
@@ -12498,7 +12552,7 @@
                                 188,
                                 0,
                                 4,
-                                "\"I lost to the thugs in the eastern town.\""
+                                "\\n< Erika >I lost to thugs from the eastern town."
                             ]
                         },
                         {
@@ -12509,7 +12563,7 @@
                                 319,
                                 0,
                                 4,
-                                "\"  The feel of their hands... Let's quickly go to sleep\\n  and forget about it.\""
+                                "\\n< Erika >The feel of their hands...\nLet's quickly go to sleep and forget about it."
                             ]
                         },
                         {
@@ -12745,6 +12799,15 @@
                             "indent": 0,
                             "parameters": [
                                 "itemslot hide"
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                1303,
+                                1303,
+                                0
                             ]
                         },
                         {
