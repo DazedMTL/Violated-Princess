@@ -2466,6 +2466,15 @@
                     },
                     "list": [
                         {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                1406,
+                                1406,
+                                0
+                            ]
+                        },
+                        {
                             "code": 201,
                             "indent": 0,
                             "parameters": [
@@ -2777,11 +2786,30 @@
                             "parameters": []
                         },
                         {
-                            "code": 356,
+                            "code": 111,
                             "indent": 0,
+                            "parameters": [
+                                0,
+                                1300,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
                             "parameters": [
                                 "回想セーブ Pagan_Bad_End"
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
                         },
                         {
                             "code": 101,
@@ -2828,7 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Ohhh... Ugh, so this is the condition of the\nbeautiful princess of Venus..."
+                                "\\n< Male >Ohhh... Ugh, so this is the body of the\nbeautiful princess of Venus..."
                             ]
                         },
                         {
@@ -3003,7 +3031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >I will make you mine."
+                                "\\n< Male >I would make you mine."
                             ]
                         },
                         {
@@ -3064,7 +3092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Someday, like this, I will...! Hmph!!"
+                                "\\n< Male >Someday, Someday, I would do this..! Hmph!"
                             ]
                         },
                         {
@@ -3396,7 +3424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Your... this place is better than I imagined!\nI'm endlessly interested! My blood won't\nstop flowing!"
+                                "\\n< Male >This place is... better than you can imagine!\nI'm dying of excitement! I can't stop the blood\nfrom coursing through my veins!"
                             ]
                         },
                         {
@@ -3451,7 +3479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >This battle is already coming to an end.\nOnce the grasslands unite, the next step\nis to rampage through the imperial\nterritory..."
+                                "\\n< Male >This battle is already over.\nOnce the grasslands unite, the next step\nis to rampage through the imperial\nterritory..."
                             ]
                         },
                         {
@@ -3700,7 +3728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Child >Ee-ji-..."
+                                "Eeeh..."
                             ]
                         },
                         {
@@ -3814,7 +3842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Subordinate >General, we have captured the brats of\nBattubayar."
+                                "\\n< Subordinate >General,\nwe have captured the brats of Battubayar."
                             ]
                         },
                         {
@@ -3875,7 +3903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Good work. Hehehe. They may resemble their\nmother, but they are an ugly bunch. Did\nthe blood of Battubayar come out strong?"
+                                "\\n< Male >Thanks for your effort. Phew.\nThey are all ugly, unlike their mother.\nDid the blood of Batbayar only come out strongly?"
                             ]
                         },
                         {
@@ -3950,7 +3978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Hm... Is someone missing? Wasn't there an\ninsolent brat of a certain age?"
+                                "\\n< Male >Hm... Is someone missing?\nWasn't there an insolent brat of a certain age?"
                             ]
                         },
                         {
@@ -4124,7 +4152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >If you haven't let them escape, it doesn't\nmatter."
+                                "\\n< Male >If you haven't let them escape,\nit doesn't matter."
                             ]
                         },
                         {
@@ -4148,7 +4176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Anyway, we're doing the same thing."
+                                "\\n< Male >What we do is the same anyway."
                             ]
                         },
                         {
@@ -4427,7 +4455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >They're not just brats we made as we pleased,\nright? The women brought here as spoils\nof war..."
+                                "\\n< Male >Those are not kid you wanted to make, is it? You were brought in as a trophy...."
                             ]
                         },
                         {
@@ -4510,7 +4538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >The children are innocent... Everyone,\neveryone is a good child...!"
+                                "\\n< Serena >The childrens are innocent...\nThey are all good children...!"
                             ]
                         },
                         {
@@ -4593,7 +4621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >The only sparkle I obtained... in the midst\nof this life as a captive..."
+                                "\\n< Serena >The only brightness I've gained\nin this life of captivity...."
                             ]
                         },
                         {
@@ -4631,7 +4659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Child >Eiji... Why are you naked? What are you doing?\nWho is that man?"
+                                "\\n< Child >Eh...what are you doing naked...?\nWho is that old man...?"
                             ]
                         },
                         {
@@ -4714,7 +4742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Th-This is... ngh! It's... it's nothing... at\nall...!"
+                                "\\n< Serena >This is...hmm!\nIt's...nothing...nothing...!"
                             ]
                         },
                         {
@@ -4752,7 +4780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Child >Eiji? Your face is red..."
+                                "\\n< Child >Eh? Your face is red..."
                             ]
                         },
                         {
@@ -4877,7 +4905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Hmph. Even though they're just kids, at that\nage, they should be a bit more\nobservant."
+                                "\\n< Male >Hmph. Even though they're just kids,\nat that age,\nthey should be a bit more observant."
                             ]
                         },
                         {
@@ -4933,7 +4961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >It seems like the seed wasn't good. Or\nmaybe it's the education? You were fond\nof cats, right?"
+                                "\\n< Male >It seems like the seed wasn't good.\nOr maybe it's the education?\nHe's fond of cats, right?"
                             ]
                         },
                         {
@@ -5110,7 +5138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Don't worry. My seed is of better quality\nthan Batbayar's. I'll make sure to\nimpregnate you with a replacement soon.\nSomething even better."
+                                "\\n< Male >Don't worry.\nMy seed is of better quality than Batbayar's.\nI'll make sure to impregnate you with a replacement soon.\nSomething even better."
                             ]
                         },
                         {
@@ -5148,7 +5176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >If you're going to breastfeed anyway,\nwouldn't it be better to have strong\nchildren made from excellent seeds?"
+                                "\\n< Male >If you're going to breastfeed anyway,\nwouldn't it be better to have strong\nchildren made from superior seeds?"
                             ]
                         },
                         {
@@ -5249,7 +5277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Take them with you."
+                                "\\n< Male >Take them."
                             ]
                         },
                         {
@@ -5273,14 +5301,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Child >Ei-jiiiiiiiiiiii!!!"
+                                "えーじーーーー！！！"
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\n<子供>"
                             ]
                         },
                         {
@@ -5553,7 +5581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Look, don't cry, don't cry. This is also a\ncustom of the chaotic world. It's the\nfate of the grasslands."
+                                "\\n< Male >Look, don't cry, don't cry.\nThis is also a custom of the chaotic world.\nIt's the fate of the grasslands."
                             ]
                         },
                         {
@@ -5678,7 +5706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Good women have the obligation to give birth\nto stronger children. They have a\nresponsibility."
+                                "\\n< Male >Good women have the obligation to give birth\nto stronger children.\nThey have a responsibility."
                             ]
                         },
                         {
@@ -5709,7 +5737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Leaving weak seeds is a sin against our\nancestors."
+                                "\\n< Male >It is a sin against our fathers\nto leave a weaker generation."
                             ]
                         },
                         {
@@ -5804,7 +5832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Hahaha, that's right, those eyes. The eyes of a\nmother who had her child taken away. I\nwanted to see those eyes of yours!"
+                                "\\n< Male >Hahaha, that's right, those eyes.\nThe eyes of a mother who had their child taken awayI wanted to see those eyes of yours!"
                             ]
                         },
                         {
@@ -5842,7 +5870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >I'll quickly find a replacement. You just\nkeep giving birth to my children under\nmy rule."
+                                "\\n< Male >I'll have a replacement for you in a minute.\nYou just have to continue to bear my children."
                             ]
                         },
                         {
@@ -5873,7 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Give birth to a detestable boy. A child who\nwill be the enemy of my child."
+                                "\\n< Male >Give birth to a horrible boy.\nA boy who will be the enemy of your other childs."
                             ]
                         },
                         {
@@ -5904,7 +5932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >It's our child. They will grow up to be\nsmart and strong. Those children will\ninvade your homeland..."
+                                "\\n< Male >Since it's our child,\nhe will grow up wise and strong.\nThe same child will invade your homeland. ......"
                             ]
                         },
                         {
@@ -5935,7 +5963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Isn't your heart leaping just from dreaming?\nHahaha, I'm looking forward to it. I'm\nreally looking forward to it..."
+                                "\\n< Male >Isn't it exciting to even dream about it?\nHahaha, I'm looking forward to it.\nI'm really looking forward to it..."
                             ]
                         },
                         {
@@ -5968,6 +5996,44 @@
                         },
                         {
                             "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                1300,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 251,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 246,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "Scene_Recollection.prototype.rngd_exit_scene();"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
                             "indent": 0,
                             "parameters": []
                         },

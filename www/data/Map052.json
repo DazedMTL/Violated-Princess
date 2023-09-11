@@ -4273,7 +4273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Didn't you listen to what I said? I told you\nto go upstairs and come back!"
+                                "\\n< Deacon >Didn't you listen to what I said?\nI told you to go upstairs!"
                             ]
                         },
                         {
@@ -4436,7 +4436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >......It's already late today. Let's postpone the\nerrands outside until tomorrow."
+                                "\\n< Serena >......It's already late today.\nLet's postpone the errands outside until tomorrow."
                             ]
                         },
                         {
@@ -4541,6 +4541,20 @@
                             ]
                         },
                         {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [
+                                19
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 1,
+                            "parameters": [
+                                "ティムイベント用"
+                            ]
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -4564,6 +4578,13 @@
                                 51,
                                 51,
                                 1
+                            ]
+                        },
+                        {
+                            "code": 118,
+                            "indent": 0,
+                            "parameters": [
+                                "ティムイベント用"
                             ]
                         },
                         {
@@ -4795,7 +4816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Hey, don't just enter without permission,\noutsider."
+                                "\\n< Deacon >Hey, outsiders are not allowed to enter without permission."
                             ]
                         },
                         {
@@ -5486,7 +5507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Hey, stop spacing out. It's about time for\nyour turn."
+                                "\\n< Male >Hey, don't just stand there.\nIt's time to get out there."
                             ]
                         },
                         {
@@ -5555,7 +5576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male >Listen, the customers sitting here are here for\nyou."
+                                "\\n< Male >Look, the people in the seats are\ncustomers who are looking for you."
                             ]
                         },
                         {
@@ -6145,7 +6166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Customer >Oh? Finally came out. Kept us waiting."
+                                "\\n< Customer >Whoa? She finally came out.\nYou made me wait."
                             ]
                         },
                         {
@@ -6207,7 +6228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Customer >Is that the rumored Kinshi-ryu? It's much\nsmaller than I thought."
+                                "\\n< Customer >Is that the rumored Blondie? She's a lot smaller than I thought."
                             ]
                         },
                         {
@@ -6433,7 +6454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >(It's noisy, it's just noise. Ignore it...\nignore it...)"
+                                "\\n< Serena >(It's noisy, it's just noise. \nIgnore it...ignore it...)"
                             ]
                         },
                         {
@@ -6521,7 +6542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Customer >Hey, can that kid buy it!?"
+                                "\\n< Customer >Hey, can I buy that brat??"
                             ]
                         },
                         {
@@ -6545,7 +6566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Customer >So, you're saying it's not for sale yet.\nThat's why..."
+                                "\\n< Customer >He said, 'I haven't put it up for sale yet'.\nThat's why he's ......."
                             ]
                         },
                         {
@@ -6576,7 +6597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Customer >Damn! So everyone here is aiming for the\nfirst release, huh?"
+                                "\\n< Customer >Damn!\nSo everyone here is aiming for the first one, huh?"
                             ]
                         },
                         {
@@ -6618,7 +6639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >N...Next time... I...!"
+                                "\\n< Serena >Ne... next... is...!"
                             ]
                         },
                         {
@@ -6840,7 +6861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Customer >Ahh! You bastard! I'm definitely going to\nimpregnate you! I'll make you cry out\nwith my cock!!"
+                                "\\n< Customer >Ahh! You bitch!\nI'm definitely going to impregnate you!\nI'll make you cry with my cock!!"
                             ]
                         },
                         {
@@ -7466,7 +7487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Foreman >Hmph. Well, the dancing part has matured. The\ncustomers haven't complained about\ntoday's performance..."
+                                "\\n< Foreman >Hmph. Well, the dancing part has improved.\nThe customers haven't complained about\ntoday's performance..."
                             ]
                         },
                         {
@@ -7536,7 +7557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Foreman >You're slacking off. It's late for you to come\nback. You should know the starting time,\nright?"
+                                "\\n< Foreman >You're slacking off. It's too late for you to go. You should know the start time, right?"
                             ]
                         },
                         {
@@ -7567,7 +7588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Foreman >If it continues like this from the first\nday, I can't help but worry about the\nfuture. I'm still against letting you go\noutside."
+                                "\\n< Foreman >If it continues like this from the first day,!nI can't help but worry about the future.\nI won't let you go."
                             ]
                         },
                         {
@@ -7605,7 +7626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >...I want to talk to the manager about that\nmatter."
+                                "\\n< Serena >...About that.\nI'd like to talk to the manager."
                             ]
                         },
                         {
@@ -7636,7 +7657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Foreman >Ah, Madame also wants to see you. Go and\nget thoroughly squeezed."
+                                "\\n< Foreman >Ah. Madame wants to see you, too.\nGo get yourself a stern talk."
                             ]
                         },
                         {
@@ -7681,7 +7702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Are you in the room on the second floor?"
+                                "\\n< Serena >Is she in room on the second floor?"
                             ]
                         },
                         {
@@ -7982,7 +8003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >Have you finished the medical examination?\nMake sure to report it properly to\nMadam."
+                                "\\n< Foreman >Have you finished the medical examination?\nMake sure to report it properly to Madam."
                             ]
                         },
                         {
@@ -8191,7 +8212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Foreman >Instead of selling oil, go make some money. Or\ndo you want me to let you earn it here?"
+                                "\\n< Foreman >Instead of selling oil, go make some money.\nOr do you want me to let you earn it here?"
                             ]
                         },
                         {
@@ -8371,7 +8392,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >You, pulling out a slime in the toilet of\nthe store. Do you know how much time I\nwasted cleaning up..."
+                                "\\n< Foreman >Hey, I removed the slime out of the store's restroom.\nYou don't know how much time I spent cleaning up. ......"
                             ]
                         },
                         {
@@ -8513,7 +8534,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >For a while, be mindful of others when\nentering and exiting."
+                                "\\n< Foreman >For a while,\nbe mindful of others when entering and exiting."
                             ]
                         },
                         {
@@ -8537,7 +8558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >Even though it's not like we're hiding it...\nif word gets out that our star employee,\nVirginia, was seen splattering slime on\nthe main street, it could affect the\nstore's image."
+                                "\\n< Foreman >It's not like I'm hiding anything,\nbut if word got out that our signboard, Virginia,\nwas spilling slime on the main street,\nit would affect the store's image."
                             ]
                         },
                         {
@@ -8686,7 +8707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >Geez, what kind of work are you doing\noutside..."
+                                "\\n< Foreman >I don't know what kind of work you\ndo out there at all. ......"
                             ]
                         },
                         {
@@ -8710,7 +8731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >It's fine that you're working, but stop\ndoing things that lower the value of the\nproducts. From now on, it's time for you\nto earn your keep."
+                                "\\n< Foreman >It's fine that you're working,\nbut stop doing things that lower the value of our products.\nIt's time for you to earn your keep."
                             ]
                         },
                         {
@@ -8852,7 +8873,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >Oh, it seems like you're properly dressed\ntoday."
+                                "\\n< Foreman >Oh, it seems like you're properly dressed today."
                             ]
                         },
                         {
@@ -8876,7 +8897,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >Yesterday, when you entered the entrance\ncompletely naked, I was quite\nsurprised..."
+                                "\\n< Foreman >Yesterday,\nwhen you entered completely naked,\nI was quite surprised..."
                             ]
                         },
                         {
@@ -8914,7 +8935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >It's not like I was willingly exposing my\nskin...!"
+                                "\\n< Serena >I didn't expose my skin because I liked it. ......"
                             ]
                         },
                         {
@@ -8945,7 +8966,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >Alright, alright. Then be more careful from now\non."
+                                "\\n< Foreman >Alright, alright.\nThen be more careful from now on."
                             ]
                         },
                         {
@@ -9025,7 +9046,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >Hmph. You seem energetic already after just\none night. Even though you came back\ncompletely beaten up yesterday."
+                                "\\n< Foreman >Hmph. You seem energetic already after a night of rest.\nEven though you left completely demoralized yesterday."
                             ]
                         },
                         {
@@ -9063,7 +9084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Because even if I cry, no one will come to help\nme..."
+                                "\\n< Serena >Because even if I cry,\nno one will help me..."
                             ]
                         },
                         {
@@ -9094,7 +9115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >Ah, if there's a prostitute crying and\nrefusing to come out of the room, it's\nour policy to throw customers into that\nroom."
+                                "\\n< Foreman >Ahh. If a whore cries and won't come out of her room,\nwe just throw the customer into that room."
                             ]
                         },
                         {
@@ -9169,7 +9190,7 @@
                             "parameters": [
                                 [
                                     "Repaying the debtif(!s[1036])",
-                                    "I don't have any particular business"
+                                    "I have no business."
                                 ],
                                 -2,
                                 -1,
@@ -9206,7 +9227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >The current debt is \\V[2302]S. How much are\nyou going to repay?"
+                                "\\n< Foreman >The current debt is \\V[2302]S.\nHow much are you going to repay?"
                             ]
                         },
                         {
@@ -9257,7 +9278,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Serena>(...I feel like it would be better to\ntemporarily stop repayment and take a\nbreak from using this money...)"
+                                "\\n<Serena>(...I don't want to spend this money now...\nI feel like it would be better to stop\nmaking payments and take a break...)"
                             ]
                         },
                         {
@@ -9343,7 +9364,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Serena>(Considering the money I need to give to Lord\nSicilia, even 1S is precious now...\nShouldn't we postpone the repayment for\nlater?)"
+                                "\\n<Serena>(Considering the money I have to give to Lady Sicilia,\neven 1s is too much right now...\nshouldn't the repayment be made later?)"
                             ]
                         },
                         {
@@ -9414,7 +9435,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >(I currently have \\V[2306]S. How much do I\nneed to repay?)"
+                                "\\n< Serena >(I currently have \\V[2306]S. How much will I repay?)"
                             ]
                         },
                         {
@@ -9681,7 +9702,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Foreman >...Ah, well... That's how it is. You managed\nto repay it in such a short period of\ntime. You're quite something."
+                                "\\n< Foreman >...Ah, well... That's right.\nYou managed to repay it in such a\nshort period of time.\nYou're quite something."
                             ]
                         },
                         {
@@ -9712,7 +9733,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Foreman >I've been told to inform Madame if you\nmanage to repay your debt. Sorry, but\nplease go and report to Madame for me."
+                                "\\n< Foreman >I've been asked to inform Madame if you\nmanage to repay your debt.\nSorry, but please go and report to Madame for me."
                             ]
                         },
                         {
@@ -9826,7 +9847,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "I have no special business."
+                                "I have no business."
                             ]
                         },
                         {
@@ -10065,7 +10086,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >Earlier, a customer who fucked you was talking\nabout it with great surprise... or\nrather, boasting about it."
+                                "\\n< Deacon >Earlier, a customer who fucked you was talking\nabout it with great excitement...\nor rather, boasting about it."
                             ]
                         },
                         {
@@ -10134,7 +10155,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >I fucked you so hard with my cock, making\nyou, who is always so reserved and\ntsundere, moan like crazy."
+                                "\\n< Deacon >He said 'She is always so reserved and\ntsundere, but i fucked her so hard she moaned like crazy.'"
                             ]
                         },
                         {
@@ -10214,7 +10235,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >Hmmm. It seems like you're not just any\nordinary customer's fuck, after all."
+                                "\\n< Deacon >Hmmm. From the looks of it,\nit's not totally untrue."
                             ]
                         },
                         {
@@ -10245,7 +10266,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >However, I'm not completely unfamiliar with that\ncustomer. Their cock and technique\nshouldn't be anything particularly\namazing."
+                                "\\n< Deacon >However, it's not like I don't know that customer, his cock and technique aren't particularly amazing."
                             ]
                         },
                         {
@@ -10325,7 +10346,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >It means that there has been a change in\nyou. So, you must have some idea as\nwell."
+                                "\\n< Deacon >Then, it means there's something\nthat changed in you.\nAnd you have an idea of what's going on."
                             ]
                         },
                         {
@@ -10356,7 +10377,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >It's troublesome, you know. After all, I am\ntechnically your supervisor. It's part\nof my job to keep track of the\nprostitutes' conditions."
+                                "\\n< Deacon >It's troublesome, you know.\nAfter all, I am technically your supervisor.\nIt's part of my job to know what's going on with the prostitutes."
                             ]
                         },
                         {
@@ -10432,7 +10453,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >In that case, I'll go up a floor for a\nbit. I'll personally confirm it myself."
+                                "\\n< Deacon >In that case,\nI'll go up a floor for a bit.\nI'll personally confirm it myself."
                             ]
                         },
                         {
@@ -10470,7 +10491,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serena >I... no, but right now my body feels a\nlittle strange..."
+                                "\\n< Serena >I... no,\nright now my body feels a little strange..."
                             ]
                         },
                         {
@@ -10508,7 +10529,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >That's why I want to confirm it. It's for your\nsake too, you know? It would be too late\nif something were to happen\nunexpectedly."
+                                "\\n< Deacon >That's why I want to confirm it.\nIt's for your sake too, you know?\nIt would be too late\nif something were to happen\nunexpectedly."
                             ]
                         },
                         {
@@ -10692,7 +10713,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >You, pulling out slime in the toilet of the\nshop. Do you know how much time I wasted\ncleaning up..."
+                                "\\n< Deacon >Hey, I removed the slime out of the store's restroom.\nYou don't know how much time I spent cleaning up. ......"
                             ]
                         },
                         {
@@ -11007,7 +11028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Geez, what kind of work are you doing\noutside..."
+                                "\\n< Deacon >I don't know what kind of work you\ndo out there at all...."
                             ]
                         },
                         {
@@ -11031,7 +11052,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >It's fine that you're working, but please\nrefrain from doing things that lower the\nvalue of the products. From now on, it's\nthe real deal for you to earn money for\nus."
+                                "\\n< Deacon >It's fine that you're working,\nbut stop doing things that lower the value of our products.\nIt's time for you to earn your keep."
                             ]
                         },
                         {
@@ -11197,7 +11218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Yesterday, when you came in completely naked\nthrough the entrance, I was quite\nsurprised..."
+                                "\\n< Deacon >Yesterday,\nwhen you entered completely naked,\nI was quite surprised..."
                             ]
                         },
                         {
@@ -11235,7 +11256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >It's not like I was intentionally exposing\nmy skin...!"
+                                "\\n< Serena >I didn't expose my skin because I liked it. ......"
                             ]
                         },
                         {
@@ -11266,7 +11287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Alright, alright. Then be more careful from now\non."
+                                "\\n< Deacon >Alright, alright.\nThen be more careful from now on."
                             ]
                         },
                         {
@@ -11346,7 +11367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Hmph. You seem energetic already after just\none night. Even though you came back\ncompletely wrecked yesterday."
+                                "\\n< Deacon >You seem energetic already after a night of rest.\nEven though you left completely demoralized yesterday."
                             ]
                         },
                         {
@@ -11384,7 +11405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Because even if I cry, no one will come to help\nme..."
+                                "\\n< Serena >Because even if I cry,\nno one will help me..."
                             ]
                         },
                         {
@@ -11415,7 +11436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Ah, if there's a prostitute crying and\nrefusing to come out of the room, it's\nour policy to throw customers into that\nroom."
+                                "\\n< Deacon >Ahh. If a whore cries and won't come out of her room,\nwe just throw the customer into that room."
                             ]
                         },
                         {
@@ -11490,8 +11511,8 @@
                             "parameters": [
                                 [
                                     "Repaying the debtif(!s[1036])",
-                                    "Undergoing training",
-                                    "I have no business"
+                                    "Receive training",
+                                    "I have no business."
                                 ],
                                 2,
                                 -1,
@@ -11528,7 +11549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >The current debt is \\V[2302]S. How much are\nyou going to repay?"
+                                "\\n< Deacon >The current debt is \\V[2302]S.\nHow much are you going to repay?"
                             ]
                         },
                         {
@@ -11579,7 +11600,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Serena>(...I feel like it would be better to\ntemporarily stop repayment and take a\nbreak from using this money...)"
+                                "\\n<Serena>(...I don't want to spend this money now...\nI feel like it would be better to stop\nmaking payments and take a break...)"
                             ]
                         },
                         {
@@ -11665,7 +11686,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Serena>(Considering the money I need to give to Lord\nSicilia, even 1S is precious now...\nShouldn't we postpone the repayment for\nlater?)"
+                                "\\n<Serena>(Considering the money I have to give to Lady Sicilia,\neven 1s is too much right now...\nshouldn't the repayment be made later?)"
                             ]
                         },
                         {
@@ -11736,7 +11757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >(I currently have \\V[2306]S. How much do I\nneed to repay?)"
+                                "\\n< Serena >(I currently have \\V[2306]S.\nHow much do I need to repay?)"
                             ]
                         },
                         {
@@ -12003,7 +12024,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Foreman >...Ah, well... That's how it is. It's\nimpressive that you were able to repay\nit in such a short period of time."
+                                "\\n< Foreman >...Ah, well... That's right. It's\nimpressive that you were able to repay\nit in such a short period of time."
                             ]
                         },
                         {
@@ -12034,7 +12055,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Deacon >Go and report to Madame as well."
+                                "\\n< Deacon >Go report to Madame as well."
                             ]
                         },
                         {
@@ -12065,7 +12086,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >Let's do that."
+                                "I will"
                             ]
                         },
                         {
@@ -12174,7 +12195,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serena >(I don't want to do it anymore today...)"
+                                "（I don't want to do this anymore today...）"
                             ]
                         },
                         {
@@ -12488,7 +12509,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Deacon >Earlier, a customer who fucked you was talking\nabout it with great surprise... or\nrather, boasting about it."
+                                "\\n< Deacon >Earlier, a customer who fucked you was talking\nabout it with great excitement...\nor rather, boasting about it."
                             ]
                         },
                         {
@@ -12557,7 +12578,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Deacon >I fucked you so hard with my cock, making\nyou, who is always so reserved and\ntsundere, moan like crazy."
+                                "\\n< Deacon >e said 'She is always so reserved and\ntsundere, but i fucked her so hard she moaned like crazy."
                             ]
                         },
                         {
@@ -12637,7 +12658,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Deacon >Hmmm. It seems like you're not just any\nordinary customer's fuck, after all."
+                                "\\n< Deacon >Hmmm. From the looks of it,\nit's not totally untrue."
                             ]
                         },
                         {
@@ -12668,7 +12689,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Deacon >However, I'm not completely unfamiliar with that\ncustomer. Their cock and technique\nshouldn't be anything particularly\namazing."
+                                "\\n< Deacon >However, it's not like I don't know that customer, his cock and technique aren't particularly amazing."
                             ]
                         },
                         {
@@ -12748,7 +12769,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Deacon >It means that there has been a change in\nyou. So, you must have some idea as\nwell."
+                                "\\n< Deacon >Then, it means there's something\nthat changed in you.\nAnd you have an idea of what's going on."
                             ]
                         },
                         {
@@ -12779,7 +12800,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Deacon >It's troublesome, you know. After all, I am\ntechnically your supervisor. It's part\nof my job to keep track of the\nprostitutes' conditions."
+                                "\\n< Deacon >It's troublesome, you know.\nAfter all, I am technically your supervisor.\nIt's part of my job to know what's going on with the prostitutes."
                             ]
                         },
                         {
@@ -12893,7 +12914,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >I... I mean, but right now my body feels a\nlittle strange..."
+                                "\\n< Serena >I... I mean,\nright now my body feels a little strange..."
                             ]
                         },
                         {
@@ -12931,7 +12952,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Deacon >That's why I want to confirm it. It's for your\nsake too, you know? It would be too late\nif something were to happen\nunexpectedly."
+                                "\\n< Deacon >That's why I want to confirm it.\nIt's for your sake too, you know?\nIt would be too late\nif something were to happen\nunexpectedly."
                             ]
                         },
                         {
@@ -13125,7 +13146,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >You, pulling out slime in the toilet of the\nshop. Do you know how much time I wasted\ncleaning up..."
+                                "\\n< Deacon >Hey, I removed the slime out of the store's restroom.\nYou don't know how much time I spent cleaning up. ......"
                             ]
                         },
                         {
@@ -13291,7 +13312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >It's not like I'm trying to hide it or\nanything, but if word gets out that our\nstar employee Virginia was shooting\nslime on the main street, it would\naffect the image of the shop."
+                                "\\n< Deacon >It's not like I'm hiding anything,\nbut if word got out that our signboard, Virginia,\nwas spilling slime on the main street,\nit would affect the store's image."
                             ]
                         },
                         {
@@ -13440,7 +13461,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Geez, what kind of work are you doing\noutside..."
+                                "\\n< Deacon >I don't know what kind of work you\ndo out there at all...."
                             ]
                         },
                         {
@@ -13464,7 +13485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >It's fine that you're working, but please\nstop doing things that lower the value\nof the products. From now on, it's the\nreal deal for you to earn money for us."
+                                "\\n< Deacon >It's fine that you're working,\nbut stop doing things that lower the value of our products.\nIt's time for you to earn your keep."
                             ]
                         },
                         {
@@ -13630,7 +13651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Yesterday, when you came in completely naked\nthrough the entrance, I was quite\nsurprised..."
+                                "\\n< Deacon >Yesterday,\nwhen you entered completely naked,\nI was quite surprised..."
                             ]
                         },
                         {
@@ -13668,7 +13689,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >It's not like I was intentionally exposing\nmy skin...!"
+                                "\\n< Serena >I didn't expose my skin because I liked it. ......"
                             ]
                         },
                         {
@@ -13699,7 +13720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Alright, alright. Then be more careful from now\non."
+                                "\\n< Deacon >Alright, alright.\nThen be more careful from now on."
                             ]
                         },
                         {
@@ -13779,7 +13800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Hmph. You seem energetic already after just\none night. Even though you came back\ncompletely wrecked yesterday."
+                                "\\n< Deacon >Hmph. You seem energetic already after a night of rest.\nEven though you left completely demoralized yesterday."
                             ]
                         },
                         {
@@ -13817,7 +13838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Because even if I cry, no one will come to help\nme..."
+                                "\\n< Serena >Because even if I cry,\nno one will help me..."
                             ]
                         },
                         {
@@ -13848,7 +13869,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Ah, if there's a prostitute crying and\nrefusing to come out of the room, it's\nour policy to throw customers into that\nroom."
+                                "\\n< Deacon >Ahh. If a whore cries and won't come out of her room,\nwe just throw the customer into that room."
                             ]
                         },
                         {
@@ -13931,7 +13952,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Undergoing training",
+                                    "Receive training",
                                     "I have no business"
                                 ],
                                 1,
@@ -14219,7 +14240,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >Hey. I just got a message from Ganuron. They\nsaid you're going to work here too,\nright?"
+                                "\\n< Deacon >Hey. I just got a message from Ganuron\nThey said you're going to work here too,\nright?"
                             ]
                         },
                         {
@@ -14264,7 +14285,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serena >Ah... However, it's not going to be all the\ntime. Basically, they told me to\nprioritize over there."
+                                "\\n< Serena >Ah...\nHowever, it's not going to be all the time.\nBasically, they told me to prioritize over there."
                             ]
                         },
                         {
@@ -14364,7 +14385,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >Haa... So, you've completely become that\nperson's bitch, huh?"
+                                "\\n< Deacon >Haa...\nSo, you've completely become that person's bitch, huh?"
                             ]
                         },
                         {
@@ -14395,7 +14416,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >That bastard supposedly has a fucking huge\ncock. It's amazing that someone can\nhandle it with that body."
+                                "\\n< Deacon >That bastard has a ridiculously big dick, doesn't he?\nI wonder how you can handle that guy with your body."
                             ]
                         },
                         {
@@ -14475,7 +14496,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Deacon >Of course it's bigger than mine, right?\nHow much is it? About this big? It's not\nlike it's as big as a leg, right?"
+                                "\\n< Deacon >Of course it's bigger than mine, right?\nHow much bigger? Like my arm?\nYou don't mean like my leg, do you?"
                             ]
                         },
                         {
@@ -14555,7 +14576,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n< Deacon >That belly brat of yours isn't his doing,\nright? Huh? You got knocked up by a\nforeigner."
+                                "\\n< Deacon >That belly of yours isn't his doing,\nright? Huh?\nYou got knocked up by a foreigner."
                             ]
                         },
                         {
@@ -14634,7 +14655,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Deacon >...Come to the room, Serena. I'll make sure to\nsee how much you've been stretched."
+                                "\\n< Deacon >...Come to my room for a minute, Serena.\nLet's see how much you've been streached out."
                             ]
                         },
                         {
@@ -14775,7 +14796,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >I don't know... if I've ever seen it...\nno, have I ever seen it..."
+                                "\\n< Serena >I don't know...\nMaybe i've seen it...\nMaybe i didn't..."
                             ]
                         },
                         {
@@ -14837,7 +14858,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >It seemed like he was enjoying himself. I\ndon't know how long he can keep up this\npace though."
+                                "\\n< Serena >It seemed like he was enjoying himself.\nI don't know how long he can keep up\nthis pace though."
                             ]
                         },
                         {
@@ -14886,7 +14907,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n< Deacon >Oh, I see. So if you're going to enjoy it,\nit's better to do it now, right? Before\nyou get stretched by his big cock, huh?"
+                                "\\n< Deacon >Heh, heh.\nThen it's the last time to have fun.\nRight?\nBefore his big dick streach you up, huh?"
                             ]
                         },
                         {
@@ -15020,7 +15041,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n< Deacon >Heh. Well, anyway, I'll be counting on you\nagain. With you around, the customers\nmight come back a little bit."
+                                "\\n< Deacon >Heh. Well, anyway, I look\nforward to working with you again.\nI'm sure your presence will bring\nback a few more customers."
                             ]
                         },
                         {
@@ -15244,7 +15265,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >......There's no need to say it."
+                                "\\n< Serena >I don't need to be told."
                             ]
                         },
                         {
@@ -15253,6 +15274,76 @@
                             "parameters": [
                                 ""
                             ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 3,
+                            "parameters": [
+                                65
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\n< Serena >In this situation,\nI don't think I'll be able to rely\non this place for a while.\nI don't have much time...\nDo I have no choice but to cling to Ganuron?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                3350,
+                                0,
+                                11,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 4,
+                            "parameters": [
+                                3350,
+                                3350,
+                                0,
+                                0,
+                                12
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 3,
+                            "parameters": []
                         },
                         {
                             "code": 119,
@@ -15303,9 +15394,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Engaging in prostitution",
-                                    "Receiving training",
-                                    "There's no need for business"
+                                    "Engage in prostitution",
+                                    "Receive training",
+                                    "I have no business"
                                 ],
                                 -2,
                                 -1,
@@ -15407,7 +15498,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Deacon >Your reservations for today are over. Even\nin this situation, we won't be offering\nany discounts. Come back again tomorrow."
+                                "\\n< Deacon >The reservations for today are over.\nEven in this situation,\nwe won't be offering any discounts.\nCome back again tomorrow."
                             ]
                         },
                         {
@@ -15524,7 +15615,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serena >(I don't want to do it anymore today...)"
+                                "\\n< Serena >(I don't want to do this anymore today...)"
                             ]
                         },
                         {
@@ -16341,7 +16432,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Male customer >What, coming back from work? It's all about\nsurvival, after all."
+                                "\\n< Male customer >What, are you on your way home from work?\nLife is a gift, you know."
                             ]
                         },
                         {
@@ -16365,7 +16456,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Male customer >Especially women, there are plenty of ways to make\nmoney besides that. For example, this\nshop, right?"
+                                "\\n< Male customer >Women in particular have plenty of other ways to earn money."
                             ]
                         },
                         {
@@ -16465,7 +16556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >Kids getting knocked up, damn brats. This\nshop... well, it's not uncommon in this\ntown."
+                                "\\n< Male customer >The kid is pregnant. It's not uncommon in this store...well, in this town, anyway."
                             ]
                         },
                         {
@@ -16496,7 +16587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >I don't need any kids. I'm perfectly\ncontent living my life as a rootless\nweed, withering away."
+                                "\\n< Male customer >I don't want kids.\nI'm content to die without anything holding me\nfor the rest of my life."
                             ]
                         },
                         {
@@ -16544,7 +16635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >Money is like a cock. Saving and saving...\nand when you release it all at once, it\nfeels amazing."
+                                "\\n< Male customer >Money is like a cock.\nSaving and storing it up...\nand when you release it all at once,!nit feels amazing."
                             ]
                         },
                         {
@@ -16575,7 +16666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >And there is also the emptiness that comes\nafter that..."
+                                "\\n< Male customer >And there is also the\nemptiness that comes after that..."
                             ]
                         },
                         {
@@ -16802,7 +16893,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Male customer >Hey, hey, you're from the Kinshi-ryu, right?\nWhy are you being so reckless like that?"
+                                "\\n< Male customer >Hey, hey, you're the blondie, right?\nWhy are you being so reckless like that?"
                             ]
                         },
                         {
@@ -16833,7 +16924,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Male customer >If you spread your legs on the bed, you\ncan earn as much money as you want,\nright?"
+                                "\\n< Male customer >If you spread your legs on the bed, \nyou can earn as much money as you want,\nright?"
                             ]
                         },
                         {
@@ -16933,7 +17024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >Oh, Kinshi-ryu. You've really blossomed\nbeautifully. Could it be that you're my\nchild?"
+                                "\\n< Male customer >Oh, Blondie.\nYou've really blossomed beautifully.\nCould it be that you're carrying my child?"
                             ]
                         },
                         {
@@ -16964,7 +17055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >Hehehe, of course, right? You're using\nprotection, aren't you?"
+                                "\\n< Male customer >Kukuku, isn't that so?\nAre you sure you're using contraceptives?"
                             ]
                         },
                         {
@@ -17067,7 +17158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >I've saved up desperately... to give it all\nto you. My money and my cock."
+                                "\\n< Male customer >I've saved up desperately...\nto give it all to you.\nMy money and my cock."
                             ]
                         },
                         {
@@ -17098,7 +17189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >My life is fulfilling, you know."
+                                "\\n< Male customer >My life is so fulfilling."
                             ]
                         },
                         {
@@ -17312,7 +17403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Good, good. Well then, today's... first\ntraining is over with this."
+                                "\\n< Deacon >Good, good. Well then,\nthat concludes today's... first training."
                             ]
                         },
                         {
@@ -17354,7 +17445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Don't go telling Madame unnecessary things\nabout the matter of making babies that I\ntold you, okay?"
+                                "\\n< Deacon >Don't tell madam that you heard about baby-making from me, okay?"
                             ]
                         },
                         {
@@ -17423,7 +17514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Well, if that's the case, then it's fine.\nWell, someone probably already told\nMadame about it anyway. I don't think\nshe cares that much..."
+                                "\\n< Deacon >Well, if that's the case, then it's fine.\nWell, someone probably already told Madame about it anyway.\nI don't think she cares that much..."
                             ]
                         },
                         {
@@ -17599,7 +17690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Your pussy is already our selling point.\nDon't take on too dangerous requests,\nokay?"
+                                "\\n< Deacon >Your pussy is already our best seller.\nDon't take on too dangerous requests,\nokay?"
                             ]
                         },
                         {
@@ -17689,7 +17780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Ah... Can I go to work already...?"
+                                "\\n< Serena >Ah ...... can I go to work now ......?"
                             ]
                         },
                         {
@@ -17720,7 +17811,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >Alright. I'm done with my business. If you want\nto go, then go."
+                                "\\n< Deacon >Alright. I'm done.\nYou can go if you want."
                             ]
                         },
                         {
@@ -17744,7 +17835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >However, from today onwards, your pussy is our\nproduct. Please don't take on any\ndangerous jobs, okay?"
+                                "\\n< Deacon >However, from today onwards,\nyour pussy is our property.\nPlease don't take on any dangerous jobs,/nokay?"
                             ]
                         },
                         {
@@ -17775,7 +17866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Deacon >There are various things I need to teach you\nand make sure you remember, okay?"
+                                "\\n< Deacon >There are various things I need to teach you\nmake sure you remember, okay?"
                             ]
                         },
                         {
@@ -18034,7 +18125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Not a single wrinkle between your eyebrows,\nnot a single tear. I won't show them to\nyou for free, you know."
+                                "\\n< Deacon >Not a wrinkle between your eyebrows,\nnot a single tear.\nI mean, don't then showt them for free."
                             ]
                         },
                         {
@@ -18127,7 +18218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >If you set your mind to it, you can easily\nsqueeze money and semen out of men, you\nknow?"
+                                "\\n< Deacon >If you set your mind to it,\nyou can easilysqueeze money and semen out of men,\nyou know?"
                             ]
                         },
                         {
@@ -18387,7 +18478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >S-Sorry. I got a bit carried away more than\nplanned."
+                                "\\n< Deacon >S-Sorry.\nI got a bit carried away more than planned."
                             ]
                         },
                         {
@@ -18418,7 +18509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Well, I can vouch for the condition of your\nass. In your case, that alone would be a\nprofitable business."
+                                "\\n< Deacon >Well,\nI can vouch for the condition of your ass.\nIn your case, that alone would be a\nprofitable business."
                             ]
                         },
                         {
@@ -18505,7 +18596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Don't you think making decent money is better\nthan being an adventurer? At least\nthere's no danger to your life, right?"
+                                "\\n< Deacon >It's a better way to make money\nthan being an adventurer,\ndon't you think?\nAt least you're not risking your life."
                             ]
                         },
                         {
@@ -18574,7 +18665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >In the first place, the income from\nworking at a brothel ends up being\nconsumed by the interest on my debt. I\ndon't have the luxury to choose how I\nwork right now."
+                                "\\n< Serena >In the first place, the income from the brothel\nends up disappearing as interest on the debt.\nRight now, I don't have any choice in how I work."
                             ]
                         },
                         {
@@ -18612,7 +18703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Hehe, so you risk your life to earn money\nduring the day, and then squeeze money\nout of your asshole at night. Quite the\nhustle. Good job, huh?"
+                                "\\n< Deacon >Heh, so you risk your life to make money during the\nday and squeeze money out of assholes at night.\nThat's a big turnaround. Good for you."
                             ]
                         },
                         {
@@ -18643,7 +18734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Who asked you to go through such hardships?\nI can't understand it at all."
+                                "\\n< Deacon >Who is asking you to go through all that trouble?"
                             ]
                         },
                         {
@@ -18712,7 +18803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I imposed it on myself. Above all else, I\nwill definitely rescue that child..."
+                                "\\n< Serena >I imposed it on myself. Above all else,\nI will definitely rescue that child..."
                             ]
                         },
                         {
@@ -18961,7 +19052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Anyway, with this, the training is finally\nover. For the most part, that is."
+                                "\\n< Deacon >Anyway, with this,\nthe training is finally over.\nFor the most part, that is."
                             ]
                         },
                         {
@@ -18999,7 +19090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Is it all done...?"
+                                "\\n< Serena >For the most part...?"
                             ]
                         },
                         {
@@ -19030,7 +19121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >It's mostly done. Do you think I've become\nskilled or something?"
+                                "\\n< Deacon >For the most part.\nDo you think you're a master now?"
                             ]
                         },
                         {
@@ -19061,7 +19152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >You're a woman, but you're the type who can't\ndo things that even a skilled person\ncan't do from the beginning."
+                                "\\n< Deacon >You're a woman who has been able to do\nthings that even experts can't do from the beginning."
                             ]
                         },
                         {
@@ -19130,7 +19221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >You're quite something. Is there any greater\npraise for a prostitute?"
+                                "\\n< Deacon >Of course.\nIs there any greater praise for a prostitute?"
                             ]
                         },
                         {
@@ -19192,7 +19283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >If you ever feel lacking, feel free to\ncome talk to me anytime. As long as I\nhave time, I'll give you as much\nguidance as you need."
+                                "\\n< Deacon >If you ever feel lacking,\nfeel free to come talk to me anytime.\nAs long as I have time,\nI'll give you as much guidance as you need."
                             ]
                         },
                         {
@@ -19565,7 +19656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >What's wrong, Serena? Can't you put any\nstrength in your legs because you came\ntoo much?"
+                                "\\n< Deacon >What's wrong, Serena?\nCan't put any strength in your legs because\nyou came too much?"
                             ]
                         },
                         {
@@ -19663,7 +19754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Well, if you can feel good and get paid for\nit, why not? It's not a bad deal, right?\nYou too."
+                                "\\n< Deacon >Well, if you can feel good and get paid for\nit, why not? It's not a bad deal for you, right?"
                             ]
                         },
                         {
@@ -19694,7 +19785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >So you finally understand that, huh?\nThere's no other business as amazing as\nthis, right?"
+                                "\\n< Deacon >So do you finally understand, huh?\nThere's no other business as amazing as\nthis, right?"
                             ]
                         },
                         {
@@ -19739,7 +19830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >...Amazing, as if there could be...! Something like\nthis...!"
+                                "\\n< Serena >...Amazing, there's no way...!\nSomething like this...!"
                             ]
                         },
                         {
@@ -19864,7 +19955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Anyway, if you keep it up like that, I might\neven add some extra color to your base\nsalary."
+                                "\\n< Deacon >Anyway, if you keep it up like that,\nI might even add some extra color to your base\nsalary."
                             ]
                         },
                         {
@@ -19895,7 +19986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >With you right now, the customers would be\neven more pleased. They would pay more.\nSo, how about I show you a good time\ntoo?"
+                                "\\n< Deacon >The customers are more than happy with you now.\nThey would pay more.\nI'll have to give you a little something to look at, won't I?"
                             ]
                         },
                         {
@@ -20019,7 +20110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Come anytime. Of course, if your training\nprogresses, I'll add some extra color to\nyour compensation accordingly."
+                                "\\n< Deacon >Come back anytime.\nOf course, if your training progresses,\nI'll add some extra color to\nyour salary accordingly."
                             ]
                         },
                         {
@@ -20214,7 +20305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Fii... I've been completely drained. My hips\nfeel light as a feather. With your\ncurrent skills, you can definitely make\nit as a professional prostitute."
+                                "\\n< Deacon >Fii... I've been completely drained.\nMy hips feel light as a feather.\nWith your current skills,\nyou can definitely make it as a professional prostitute."
                             ]
                         },
                         {
@@ -20285,7 +20376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >If you can recreate that feeling, you'll\nbecome even more popular. Take today's\nexperience as a reference and try to be\nmore dependent on your clients. It's\nbetter to have them make you feel good\nwillingly rather than forcing yourself\nto feel good."
+                                "\\n< Deacon >If you're like that, you'll become more popular.\nTake a look at what you did today and\ntry to spoil your clients.\nYou'll automatically feel good too."
                             ]
                         },
                         {
@@ -20363,7 +20454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >You were shaking your hips so passionately.\nYou must have understood the pleasure of\nsex too. It's about time you become more\nhonest..."
+                                "\\n< Deacon >You were shaking your hips so passionately.\nYou must have understood the pleasure of\nsex too.\nIt's about time you become more honest..."
                             ]
                         },
                         {
@@ -20402,7 +20493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >(...From the middle, I couldn't think of\nanything. Without thinking, I was\ncompletely absorbed...doing such\nembarrassing things.)"
+                                "\\n< Serena >(...From the middle pont,\nI couldn't think of anything.\nI was completely absorbed...doing such\nembarrassing things.)"
                             ]
                         },
                         {
@@ -20434,7 +20525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >(Even though I knew that he would release his\nsemen inside my stomach, I couldn't\nstop... and just like that, I came.)"
+                                "\\n< Serena >(Even though I knew that he would release his\nsemen inside my stomach,\nI couldn't stop...\nand just like that, I came.)"
                             ]
                         },
                         {
@@ -20869,7 +20960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >During the day, I work at the guild... and if\nthat goes away, then at this shop..."
+                                "\\n< Serena >During the day, I work at the guild...\nand if theres nothing, then at this shop..."
                             ]
                         },
                         {
@@ -20910,7 +21001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >For the time being, I'll be staying over\nthere... During the day, I'll be working\nat the guild. If that goes away, then at\nthis shop..."
+                                "\\n< Serena >For the time being,\nI'll be staying over there...\nDuring the day, I'll be working at the guild.\nIf there's nothing, then at this shop..."
                             ]
                         },
                         {
@@ -20996,7 +21087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >You can also rephrase it as How are you\ngoing to escape from this town?"
+                                "\\n< Deacon >You can also rephrase it as\nHow are you going to escape from this town?"
                             ]
                         },
                         {
@@ -21027,7 +21118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I don't intend to leave the town. It's\nbecause my own objective has not been\nfulfilled yet."
+                                "\\n< Serena >I don't intend to leave the town.\nBecause my own objective has not been\nfulfilled yet."
                             ]
                         },
                         {
@@ -21058,7 +21149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >If I pay that guy 10,000 silver, the\ncurrent situation can be resolved. So,\nfirst I'll aim to earn 10,000 silver."
+                                "\\n< Serena >If I pay that guy 10,000 silver,\nthe current issue can be resolved.\nSo, first I'll aim to earn 10,000 silver."
                             ]
                         },
                         {
@@ -21096,7 +21187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >What's that? So, you're saying you made a\npromise with Ganuron?"
+                                "\\n< Deacon >What's that?\nYou mean you promised Ganuron that?"
                             ]
                         },
                         {
@@ -21151,7 +21242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I don't trust him... but I'm being held\nhostage. He's a key person that I\nabsolutely need for my objective."
+                                "\\n< Serena >I don't trust him... but they are being held\nhostage. They are key person that I\nabsolutely need for my objective."
                             ]
                         },
                         {
@@ -21220,7 +21311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Hmph. Well, do whatever you want... I'll find\nan opportunity and escape."
+                                "\\n< Deacon >Hmph. Well, do whatever you want...\nI'll find an opportunity and escape."
                             ]
                         },
                         {
@@ -21251,7 +21342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >It's convenient for you too, isn't it? If I\ndisappear, maybe you can take over this\nshop."
+                                "\\n< Deacon >It's convenient for you too, isn't it?\nIf I disappear, maybe you can take over this\nshop."
                             ]
                         },
                         {
@@ -21313,7 +21404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >It must be a mistake to think of me as a\nhouse pet."
+                                "\\n< Serena >It a mistake to think of me as a\nhouse pet."
                             ]
                         },
                         {
@@ -21880,7 +21971,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Male customer >Your dancer outfit looks great, but that\nkind of attire is also alluring. Next\ntime, please be my partner while wearing\nthat outfit."
+                                "\\n< Male customer >Dancing is nice, but that kind of\ndress is also intriguing, isn't it?\nNext time, you can dress like that and play with me."
                             ]
                         },
                         {
@@ -22028,7 +22119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >So you're the famous Kinshi-ryu, huh? Are\nyou gonna pour me a drink for free?\nThat's great!"
+                                "\\n< Male customer >So you're the famous Blondie, huh? Are\nyou gonna pour me a drink for free?\nThat's great!"
                             ]
                         },
                         {
@@ -22362,7 +22453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >Did my seed hit the mark? The price may not\nbe cheap, but if I think about having my\nown child with that golden thread flow,\nit's a bargain."
+                                "\\n< Male customer >Did my seed hit the mark? The price may not\nbe cheap, but if I think about having my\nown child with that Blondie,\nit's a bargain."
                             ]
                         },
                         {
@@ -22939,7 +23030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >I wonder how many siblings I can create\nif I start giving birth now!? It seems\nlike I could make a name for myself in\nhistory! Hahaha!"
+                                "\\n< Male customer >I wonder how many siblings you can create\nif you start giving birth now!? It seems\nlike you could make a name for yourself in\nhistory! Hahaha!"
                             ]
                         },
                         {
@@ -23424,7 +23515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >Hey, Virginia from the Kinshi-ryu! After the\nstage, are you going to flow golden\nthreads on top of a man!?"
+                                "\\n< Male customer >Hey, Blondie Virginia! After the\nstage, are you going to flow golden\nthreads on top of a man!?"
                             ]
                         },
                         {
@@ -23455,7 +23546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >I want to thrust into that small body of\nyours so hard that your hair gets all\nmessed up! Gyahaha!"
+                                "\\n< Male customer >I would thrust into that small body of\nyours so hard that your hair gets all\nmessed up! Gyahaha!"
                             ]
                         },
                         {
@@ -24073,7 +24164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Hey, don't just enter without permission,\noutsider."
+                                "\\n< Deacon >Hey, outsiders are not allowed to enter without permission."
                             ]
                         },
                         {
@@ -24833,7 +24924,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Male customer >Oh, you're dressed quite fancy. Coming in\nand out of this store wearing clothes\nlike that, you wouldn't know if\nsomething bad happened, huh?"
+                                "\\n< Male customer >Oh, you're dressed quite fancy. Coming in\nand out of this store wearing clothes\nlike that, they wouldn't know if\nsomething bad happened, huh?"
                             ]
                         },
                         {
@@ -24940,7 +25031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >Hehehe, who are you? Which perverted bastard\nknocked you up?"
+                                "\\n< Male customer >Hehehe, who is it? Which perverted bastard\nknocked you up?"
                             ]
                         },
                         {
@@ -24971,7 +25062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >Even this store's Jenny-chan looks like she\ngot knocked up recently. Hehehe, this\ntown doesn't hold back even with kids,\nhuh."
+                                "\\n< Male customer >Even Virgi-chan from this store\nwas knocked up recently. Hehehe, this\ntown doesn't hold back even with kids,\nhuh."
                             ]
                         },
                         {
@@ -25415,7 +25506,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >Even the Kinshi-ryu of this shop, I'm gonna\nimpregnate you right now. Someone's\ngotta do it. So, it might as well be\nme...!"
+                                "\\n< Male customer >The Blondie of this shop, I'm gonna\nimpregnate you right now. Someone's\ngotta do it. So, it might as well be\nme...!"
                             ]
                         },
                         {
@@ -25494,7 +25585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >It's not easy to request the Kinshi-ryu...\nbut once I can, I'll pump all my cum\ninto you."
+                                "\\n< Male customer >It's not easy to request the Blondie...\nbut once I can, I'll pump all my cum\ninto you."
                             ]
                         },
                         {
@@ -25895,7 +25986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >Even though Ginny-chan has such a sharp\nexpression, her belly is shamelessly\nswollen..."
+                                "\\n< Male customer >Even though Virginia-chan has such a sharp\nexpression, her belly is shamelessly\nswollen..."
                             ]
                         },
                         {
@@ -25974,7 +26065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >No, Ginny-chan's flat chest is what makes\nher incredibly cute and sexy. Don't you\nunderstand? The coexistence of innocence\nand promiscuity, the beauty of that\ncontradiction."
+                                "\\n< Male customer >No, Virginia-chan's flat chest is what makes\nher incredibly cute and sexy. Don't you\nunderstand? The coexistence of innocence\nand promiscuity, the beauty of that\ncontradiction."
                             ]
                         },
                         {
@@ -26315,7 +26406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >You probably haven't even let anyone fuck\nyou raw, right?! Can't your pussy handle\na condom? What about your cum, huh?!"
+                                "\\n< Male customer >I guess you never let me fuck you raw anyway! My semen can't penetrate the contraceptive, eh! ?"
                             ]
                         },
                         {
@@ -26363,7 +26454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >Have you ever sucked someone's cock?! That\nfeeling of a hot, small tongue licking\nand sucking my cock when it was\nswallowed by the face veil!"
+                                "\\n< Male customer >Have you ever sucked someone's cock?! That\nfeeling of a hot, small tongue licking\nand sucking my cock when it was\nswallowed by her hidden face!"
                             ]
                         },
                         {
@@ -27740,7 +27831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >I wonder if you'll dance for me today,\nKinshi-ryu. Lately, the only thing that\nbrings me joy is gazing at your peach-\nlike ass up close and personal..."
+                                "\\n< Male customer >I wonder if you'll dance for me today,\nBlondie. Lately, the only thing that\nbrings me joy is gazing at your peach-\nlike ass up close and personal..."
                             ]
                         },
                         {
@@ -28005,7 +28096,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Male customer >How about having Jenny-chan try wearing it\nnext time? She'll probably hate it...\nhehehe!"
+                                "\\n< Male customer >How about having Virginia-chan try wearing it\nnext time? She'll probably hate it...\nhehehe!"
                             ]
                         },
                         {
@@ -28129,7 +28220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >How can I get excited about a non-pregnant\nfemale? That's just a normal sense for\nmales, right?"
+                                "\\n< Male customer >How am I supposed to get excited about a\nfemale who won't get pregnant?\nThat's the normal feeling of males."
                             ]
                         },
                         {
@@ -28208,7 +28299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >I'll pin down Jenny-chan and strip off that\nveil. I wonder how her defiant eyes will\ndistort... I can't wait!"
+                                "\\n< Male customer >I'll pin down Virgi-chan and strip off that\nveil. I wonder how her defiant eyes will\ndistort... I can't wait!"
                             ]
                         },
                         {
@@ -28779,7 +28870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Male customer >Hmph... Whether it's Virginia or Kinshi-ryu, I\ndon't know, but all these newcomers are\ngetting too excited..."
+                                "\\n< Male customer >Hmph... Whether it's Virginia or Blondie, I\ndon't know, but all these newcomers are\ngetting too excited..."
                             ]
                         },
                         {
@@ -29193,7 +29284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Male customer >Secretly prick a needle into the contraceptive\ndevice... That's why that child is mine.\nThere's no doubt about it..."
+                                "\\n< Male customer >I secretly pierced the condom with a needle...\nThat's why that child is mine.\nThere's no doubt about it..."
                             ]
                         },
                         {
@@ -29745,13 +29836,6 @@
                             ]
                         },
                         {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 205,
                             "indent": 0,
                             "parameters": [
@@ -29848,7 +29932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Starting tonight, our job will change. We have\nto go into the audience and entertain\nthem."
+                                "\\n< Serena >Starting tonight, my job will change. I have\nto go into the audience and entertain\nthem."
                             ]
                         },
                         {
@@ -30062,7 +30146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Virginia-chan, you're being treated specially."
+                                "\\n< Deacon >Virginia-chan, you're having special treatment."
                             ]
                         },
                         {
@@ -30366,13 +30450,6 @@
                             ]
                         },
                         {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 205,
                             "indent": 0,
                             "parameters": [
@@ -30462,7 +30539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Don't be on guard. I want to praise you. You\nwere working last night, right?"
+                                "\\n< Deacon >Don't be on guard. I want to praise you.\nYou were working last night, right?"
                             ]
                         },
                         {
@@ -30493,7 +30570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >The customers were really happy. They\nfinally got to experience the Kinshi-\nryu."
+                                "\\n< Deacon >The customers were really happy. They\nfinally got to experience Blondie."
                             ]
                         },
                         {
@@ -30562,7 +30639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >However, amateur skills only work at first. From\nnow on, I want you to study customer\nservice properly. How to behave on the\nbed, right?"
+                                "\\n< Deacon >However, amateur skills only work at first. From\nnow on, I want you to study customer\nservice properly. How to behave on the\nbed, alright?"
                             ]
                         },
                         {
@@ -30607,7 +30684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Studying... what is it?"
+                                "\\n< Serena >Studying... what?"
                             ]
                         },
                         {
@@ -30676,7 +30753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >I'll take care of being your partner. Or\nrather, that's originally your main job.\nMost of the women in this shop are\ntrained by me."
+                                "\\n< Deacon >I'll take care of being your partner. Or\nrather, that's originally my main job.\nMost of the women in this shop are\ntrained by me."
                             ]
                         },
                         {
@@ -30721,7 +30798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >......That is..."
+                                "\\n< Serena >......That's..."
                             ]
                         },
                         {
@@ -30783,7 +30860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Well, even if I say it's forced, it's not\nnecessarily a bad thing. In fact, it's\nsomething necessary to protect yourself."
+                                "\\n< Deacon >Well, even if I,m forcing you, it's not\nnecessarily a bad thing. In fact, it's\nsomething necessary to protect yourself."
                             ]
                         },
                         {
@@ -30945,7 +31022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Well, the most common request is to let them\ncum inside. You should try letting every\ncustomer who asks do it. Repeated\npregnancies and childbirth will lead you\nstraight to becoming a wreck."
+                                "\\n< Deacon >Well, the most common request is to let them\ncum inside. You shouldn't let customer do it. Repeated\npregnancies and childbirth will lead you\nstraight to becoming a wreck."
                             ]
                         },
                         {
@@ -31028,7 +31105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >I won't let you do that as a prostitute.\nYou'll suck with your mouth, jerk off\nwith your hand, put on a condom, and\nservice them with your asshole."
+                                "\\n< Deacon >Whores are not allowed to do that, they have to suck it in their mouths, jerk it with their hands, put on birth control, or put it in the ass."
                             ]
                         },
                         {
@@ -31954,7 +32031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Customer >Oh, if the rumors are true, it's the\nKinshi-ryu! I heard you started selling\nfrom today, right? I've been waiting for\nthis moment!"
+                                "\\n< Customer >Oh, if the rumors are true, it's the\nBlondie! I heard you started selling\nfrom today, right? I've been waiting for\nthis moment!"
                             ]
                         },
                         {
@@ -32155,7 +32232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >These are your customers. They're really\npopular. Every night, you've been\nshaking your ass and provoking them in\nfront of the customers. It's been quite\neffective."
+                                "\\n< Deacon >These are your customers. You're really\npopular. Every night, you've been\nshaking your ass in front of the customers and provoking them .\nIt's been quite effective."
                             ]
                         },
                         {
@@ -32217,7 +32294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Thanks to you, the prostitution reservations\nare fully booked for a while. If I\ndidn't set limits, you would have been\nviolated from morning till night, you."
+                                "\\n< Deacon >Thanks to you, the prostitution reservations\nare fully booked for a while. If I\ndidn't set limits, you would have been\nviolated from morning till night."
                             ]
                         },
                         {
@@ -32328,7 +32405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >(Looking at me with those eyes... Wanting to do\nthose things, coming here...)"
+                                "\\n< Serena >(Looking at me with those eyes...\nComing here, wanting to do those things..)"
                             ]
                         },
                         {
@@ -32682,7 +32759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Hmph... You self-righteous bastards. You're\njust imposing your own convenience on\nme."
+                                "\\n< Serena >Hmph... you patronizing bastard. You're just imposing your wishes on me."
                             ]
                         },
                         {
@@ -32789,7 +32866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >If you're not good at training, then it's\ntime for you to study sex. From now on,\nyou'll be embraced by men every night...\nHow long do you think your body will\nlast?"
+                                "\\n< Deacon >If you're bad during training,\nyou'll have to learn about sex.\nYou are going to be held by a man every night...\nhow long do you think your body will last?"
                             ]
                         },
                         {
@@ -32992,7 +33069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >......What about my pussy???"
+                                "\\n< Serena >......Other than my pussy???"
                             ]
                         },
                         {
@@ -33023,7 +33100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >It's not a bad deal for you either. If we\nincrease your daily earnings, we can\nrepay the debt faster, and if I actively\nsatisfy you, you can avoid penetration\nand reduce the burden."
+                                "\\n< Deacon >It's not a bad deal for you either. If you\nincrease your daily earnings, you can\nrepay the debt faster, and if you actively\nsatisfy them, you can avoid penetration\nand reduce the burden."
                             ]
                         },
                         {
@@ -33238,7 +33315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >......I understand. I will accept that training\nyou mentioned."
+                                "\\n< Serena >......I understand. I will do the training\nyou mentioned."
                             ]
                         },
                         {
@@ -33991,7 +34068,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Prostitute >Ah, you're an adventurer, right? Madame,\nyou're too sweet, especially for someone\nlike you..."
+                                "\\n< Prostitute >Ah, you're an adventurer, right? Madame,\nis too sweet, especially for someone\nlike you..."
                             ]
                         },
                         {
@@ -34091,7 +34168,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Prostitute >Just so you know, even if I'm pregnant, I\ncan't refuse alcohol. We..."
+                                "\\n< Prostitute >Just so you know, even if I'm pregnant, I\ncan't refuse alcohol. You..."
                             ]
                         },
                         {
@@ -34414,7 +34491,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Prostitute >So don't bother me. You don't understand,\nright? What's with that appearance..."
+                                "\\n< Prostitute >Don't bother me. You understand that,\nright? What's with your appearance..."
                             ]
                         },
                         {
@@ -34445,7 +34522,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Prostitute >What kind of reaction are you expecting from\nme... to me..."
+                                "\\n< Prostitute >What kind of reaction are you expecting..\nfrom me..."
                             ]
                         },
                         {
@@ -34538,7 +34615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Prostitute >Did you knock me up? What? Are you just a\nbratty client after all?"
+                                "\\n< Prostitute >You got knocked up? What?\nYou mean it's one of your client's kids?"
                             ]
                         },
                         {
@@ -34617,7 +34694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Prostitute >So I'm telling you not to walk around the\nworkplace in casual clothes. What, are\nyou bragging? To us."
+                                "\\n< Prostitute >I told you you not to walk around the\nworkplace in casual clothes. What, are\nyou bragging? To us?"
                             ]
                         },
                         {
@@ -35807,7 +35884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I don't have any business right now."
+                                "\\n< Serena >I have no business there now."
                             ]
                         },
                         {
@@ -37414,7 +37491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Hey, don't just enter without permission,\noutsider."
+                                "\\n< Deacon >Hey, outsiders are not allowed to enter without permission."
                             ]
                         },
                         {
@@ -38343,7 +38420,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\V[2212] is looking at Serena with excitement."
+                                "\\V[2212]は興奮気味にセレナを見つめている。"
                             ]
                         },
                         {
@@ -38410,7 +38487,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\V[2212] seems to be enjoying themselves with a good\nmood."
+                                "\\V[2212]is in a good mood and having fun."
                             ]
                         },
                         {
@@ -38802,7 +38879,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >(............I can't refuse... any more... alcohol...)"
+                                "\\n< Serena >(......No more...alcohol...I have to...refuse...."
                             ]
                         },
                         {
@@ -38912,7 +38989,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n< Serena >(......My eyes are swimming... My thoughts are\nsluggish....)"
+                                "\\n< Serena >(...My eyes are watering... My thoughts are sluggish….)"
                             ]
                         },
                         {
@@ -39269,7 +39346,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n< Serena >(I can't take it anymore... I can't...)"
+                                "\\n< Serena >(Patience... be patient.)"
                             ]
                         },
                         {
@@ -39564,7 +39641,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >(Huh...? What am I saying? I don't really\nunderstand, but for now, I have to\npraise...)"
+                                "\\n< Serena >(Huh...? What am I saying? I don't really\nunderstand, but for now,\nI have to praise him...)"
                             ]
                         },
                         {
@@ -39930,7 +40007,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n< Serena >(What am I supposed to praise about this\nperson...?)"
+                                "\\n< Serena >(What is there to praise about this guy....?)"
                             ]
                         },
                         {
@@ -42078,7 +42155,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\n< Serena >(This person, being overly familiar... No, I\nmust endure.)"
+                                "\\n< Serena >(This person, is being too touchy... No, I\nmust endure.)"
                             ]
                         },
                         {
@@ -42376,7 +42453,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\n< Serena >(And yet... my anger... is melting away... I\ncan't... control myself...)"
+                                "\\n< Serena >(And yet... my anger... is melting away... I\ncan't... get it together...)"
                             ]
                         },
                         {
@@ -43510,7 +43587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >Serena, you've angered the customer. This time,\nthere will be no reward."
+                                "\\n< Foreman >Serena, you've angered the customer.\nThis time,there will be no pay."
                             ]
                         },
                         {
@@ -44153,7 +44230,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >...It's time. You should go home early."
+                                "\\n< Serena >...It's time. I should go home early."
                             ]
                         },
                         {
@@ -48475,7 +48552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Foreman >Geez, what a mess. This is punishment for\nmessing up. We won't be paying you for\nthis entertainment expense."
+                                "\\n< Foreman >Geez, what a mess. This is punishment for\nmessing up. We won't be paying you for\nthis reception."
                             ]
                         },
                         {
@@ -49100,7 +49177,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Who would do such a thing... What was done\nto me? Without me knowing... Ugh, you..."
+                                "\\n< Serena >Who would do such a thing... What was done\nto me? Without me knowing... Ugh..."
                             ]
                         },
                         {
@@ -51750,7 +51827,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Customer >Um, my belly seems to have gotten a bit\nbigger...?"
+                                "\\n< Customer >Um, your belly seems to have gotten a bit\nbigger...?"
                             ]
                         },
                         {
@@ -51774,7 +51851,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Customer >Hehehe, then maybe the rumors about you being a\nslut were actually true! Well, maybe\nthey hit the mark after all!"
+                                "\\n< Customer >If that's the case, it's rumored to be a slut! I guess they were right!"
                             ]
                         },
                         {
@@ -51825,21 +51902,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Customer >Day by day, you're getting better at being\nerotic... Uohoho...!"
+                                "日に日に上手くエロくなってるな…。"
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "うおほほ…！"
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "\\n<客>"
                             ]
                         },
                         {
@@ -51994,7 +52071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Customer >Wow! Kinsenryuu-chan! You're the best!!"
+                                "\\n< Customer >Wow! Blondie! You're the best!!"
                             ]
                         },
                         {
@@ -52687,7 +52764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >(...Stinky. It's so familiar and creepy.)"
+                                "\\n< Serena >(...Stinky. He's so touchy and creepy.)"
                             ]
                         },
                         {
@@ -53397,7 +53474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Ugh, ugh...! That's why, hands, off...!"
+                                "\\n< Serena >Ugh, ugh...! I said, hands, off...!"
                             ]
                         },
                         {
@@ -53621,7 +53698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Customer >Oh, oh... that's good. The way you are\nright now. Will you accept it? That kind\nof thing really gets my cock excited...?"
+                                "\\n< Customer >Oh, oh... that's good.\nThe way you are acting right now.\nWill you do it? That kind of thing\nreally gets my cock excited...?"
                             ]
                         },
                         {
@@ -53829,7 +53906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >......Ah......yes......."
+                                "\\n< Serena >......Ah......no......."
                             ]
                         },
                         {
@@ -53870,7 +53947,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Customer >It's fine, I'll pay the tip, you know? You\nneed money, right?"
+                                "\\n< Customer >It's fine, I'll give you a tip, you know?\nYou need money, right?"
                             ]
                         },
                         {
@@ -54078,7 +54155,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Customer >...sigh... However, I can't believe I still\nhaven't been able to fuck such a cute\ngirl...! That old hag is teasing me...!"
+                                "\\n< Customer >...sigh...I can't believe I still\nhaven't been able to fuck such a cute\ngirl...! That old hag is teasing me...!"
                             ]
                         },
                         {
@@ -55278,7 +55355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Unnamed Guest >What's wrong, Ginny-chan? You've been absent-\nminded since earlier... I paid money, so\nmake sure to properly entertain me,\nokay?"
+                                "\\n< Unnamed Guest >What's wrong, Virgi-chan? You've been absent-\nminded since earlier... I paid money, so\nmake sure to properly entertain me,\nokay?"
                             ]
                         },
                         {
@@ -56122,7 +56199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Unnamed Guest >Your usual tsundere attitude has softened\nquite a bit. Isn't it cute when you're\nnot feeling well? Huh?"
+                                "\\n< Unnamed Guest >Your usual tsundere attitude has softened\nquite a bit. You're cuter when you're\nnot feeling well? Huh?"
                             ]
                         },
                         {
@@ -56400,7 +56477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Unnamed Guest >You're really cute today. I would order\nanything as long as it pleases you,\nJenny-chan. So, um..."
+                                "\\n< Unnamed Guest >You're really cute today. I would order\nanything as long as it pleases you,\nVirgi-chan. So, um..."
                             ]
                         },
                         {
@@ -56642,7 +56719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Unnamed Guest >Oh, it's nice. Jenny-chan's butt is so\nsmooth and warm. Just touching it makes\nme feel so happy!"
+                                "\\n< Unnamed Guest >Oh, it's nice. Virgi-chan's butt is so\nsmooth and warm. Just touching it makes\nme feel so happy!"
                             ]
                         },
                         {
@@ -56997,7 +57074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Don't look at me with those eyes. It's\ndisgusting, a gaze that I hate..."
+                                "\\n< Serena >Don't look at me with those eyes. It's\ndisgusting, I hate that gaze..."
                             ]
                         },
                         {
@@ -57028,7 +57105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Unnamed Guest >Well, what can you do? Today, Jenny-chan is\nbeing naughty, so it can't be helped."
+                                "\\n< Unnamed Guest >Well, what can I do? Today, Virginia-chan is\nbeing naughty, so it can't be helped."
                             ]
                         },
                         {
@@ -57100,7 +57177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >E-Ecchi... Perverted...?"
+                                "\\n< Serena >Lecherous... Perverted...?"
                             ]
                         },
                         {
@@ -57291,7 +57368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >What is that... I... I didn't mean to... ah,\nah...!"
+                                "\\n< Serena >What do you... I... I didn't mean to... ah,\nah...!"
                             ]
                         },
                         {
@@ -57329,7 +57406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Unnamed Guest >Haa... damn, don't smell so good. I'm gonna\nfill Tamakin up real good... hey, isn't\nthat great?"
+                                "\\n< Unnamed Guest >Ha ha ha...damn, you smell good. I want unload my balls....hey, it's fine, right?"
                             ]
                         },
                         {
@@ -57554,7 +57631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Unnamed Guest >Even though you're complaining, your little\nkid nipples are standing up straight.\nJenny-chan must be feeling good too,\nright?"
+                                "\\n< Unnamed Guest >Even though you're complaining, your little\nkid nipples are standing up straight.\nVirgi-chan must be feeling good too,\nright?"
                             ]
                         },
                         {
@@ -58093,7 +58170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Unnamed Guest >Because you're a good girl, right? Jenny-chan,\ndon't you want to feel even better? Huh?"
+                                "\\n< Unnamed Guest >You're a good girl, right? Virgi-chan,\ndon't you want to feel even better? Huh?"
                             ]
                         },
                         {
@@ -58527,7 +58604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >I'm terribly sorry, but Jenny has been\nrequested by another customer as well..."
+                                "\\n< Deacon >I'm terribly sorry, but Virginia has been\nrequested by another customer as well..."
                             ]
                         },
                         {
@@ -58558,7 +58635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Unnamed Guest >Ahh!? Damn it! Just a little longer and now\nyou're telling me to hand her over to\nsome other bastard!?"
+                                "\\n< Unnamed Guest >Ahh!? Damn it!\nI just want a little longer and now\nyou're telling me to hand her over to\nsome other bastard!?"
                             ]
                         },
                         {
@@ -58589,7 +58666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >...Guests."
+                                "\\n< Deacon >...Guest."
                             ]
                         },
                         {
@@ -59043,7 +59120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Deacon >Hey, Jenny. You're really looking sexy\ntoday, aren't you?"
+                                "\\n< Deacon >Hey, Virginia. You're really looking sexy\ntoday, aren't you?"
                             ]
                         },
                         {

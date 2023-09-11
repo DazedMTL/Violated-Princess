@@ -125,7 +125,7 @@
         "Book",
         "Accessory"
     ],
-    "gameTitle": "Violated Princess Ver1.00  shift:Dash  Z:Confirm/Attack/Charge  X:Cancel/Menu  C:Use Item  1:Select Item on Left Slot  2:Select Item on Right Slot Ver1.00",
+    "gameTitle": "Violated Princess Ver1.03  shift:Dash  Z:Confirm/Attack/Charge  X:Cancel/Menu  C:Use Item  1:Use Item Left Slot  2:Use item Right Slot Ver1.03",
     "gameoverMe": {
         "name": "Gameover1",
         "pan": 0,
