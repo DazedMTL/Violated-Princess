@@ -2826,7 +2826,7 @@
         0,
         246,
         247,
-        0,
+        244,
         245,
         0,
         246,
@@ -2863,7 +2863,7 @@
         0,
         254,
         255,
-        0,
+        252,
         253,
         0,
         254,
@@ -2964,7 +2964,7 @@
         1003,
         1010,
         1011,
-        0,
+        244,
         1009,
         1003,
         1010,
@@ -2979,7 +2979,7 @@
         1003,
         1010,
         1011,
-        0,
+        244,
         1009,
         1003,
         1010,
@@ -3001,7 +3001,7 @@
         0,
         1018,
         1019,
-        0,
+        252,
         1017,
         0,
         1018,
@@ -3016,7 +3016,7 @@
         0,
         1018,
         1019,
-        0,
+        252,
         1017,
         0,
         1018,
@@ -5359,7 +5359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Cecilia >Is that black one chasing us!? Why!?"
+                                "\\n< Cecilia >That black thing is following us! Why?"
                             ]
                         },
                         {
@@ -7425,7 +7425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Is this... the prize storage room?!"
+                                "\\n< Serena >Is this... the rtreasure storage room?!"
                             ]
                         },
                         {
@@ -7456,7 +7456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Cecilia >Hurry up and keep going! They're chasing us!!"
+                                "\\n< Cecilia >Okay, move on, move on! They're come after me! !"
                             ]
                         },
                         {
@@ -8595,7 +8595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >We don't have time to waste, let's hurry!"
+                                "\\n< Serena >I don't have time to waste, let's hurry!"
                             ]
                         },
                         {
