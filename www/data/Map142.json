@@ -2975,7 +2975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ha, ha... I... I'm just one step away..."
+                                "\\n< Serena >Ha, ha... I... I'm just one step away..."
                             ]
                         },
                         {
@@ -7253,17 +7253,17 @@
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くっついちまうモンがよぉ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n<熊手のドッジ>"
+                                ""
                             ]
                         },
                         {
