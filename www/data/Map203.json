@@ -5301,14 +5301,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーじーーーー！！！"
+                                "\\n< Child >Ei-jiiiiiiiiiiii!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供>"
+                                ""
                             ]
                         },
                         {
