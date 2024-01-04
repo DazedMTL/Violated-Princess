@@ -4820,13 +4820,6 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 205,
                             "indent": 0,
                             "parameters": [
@@ -24370,13 +24363,6 @@
                             "indent": 0,
                             "parameters": [
                                 "\\n< Deacon >Hey, outsiders are not allowed to enter without\npermission."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
                             ]
                         },
                         {

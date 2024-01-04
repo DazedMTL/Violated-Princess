@@ -5431,13 +5431,6 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 205,
                             "indent": 3,
                             "parameters": [
@@ -5539,20 +5532,6 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 0,
                             "indent": 4,
                             "parameters": []
@@ -5606,13 +5585,6 @@
                             "indent": 5,
                             "parameters": [
                                 "\\n< Serena >......Ugh."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
                             ]
                         },
                         {
@@ -5738,13 +5710,6 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 205,
                             "indent": 3,
                             "parameters": [
@@ -5818,13 +5783,6 @@
                             "indent": 4,
                             "parameters": [
                                 "\\n< Serena >Isn't it a bit too revealing? I can't go out in\npublic dressed like this."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
                             ]
                         },
                         {
@@ -5919,20 +5877,6 @@
                             "indent": 5,
                             "parameters": [
                                 "\\n< Serena >...I should at least wear underwear. I'm not an\nanimal."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
                             ]
                         },
                         {
@@ -6187,7 +6131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"I can't use a private room without paying.\"\\n<Serena>"
+                                "\"I can't use a private room without paying.\"\\n< Serena >"
                             ]
                         },
                         {
